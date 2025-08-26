@@ -2,6 +2,8 @@
 
 A custom child theme for Open Journal Systems (OJS), built upon the default `healthSciences` theme. This theme was heavily customized to create a unique identity for the Saryn journal. It is fully responsive, providing an optimal viewing experience across all devices—from desktops to mobile phones.
 
+![Screenshot of the about page of saryn journal](.github/images/screenchot-about-page.png)
+
 ## Live Demo
 
 You can see this theme in action on the official website of the Saryn Journal:
