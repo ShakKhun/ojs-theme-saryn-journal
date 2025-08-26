@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T10:49:37+00:00\n"
+"PO-Revision-Date: 2019-11-19T10:49:37+00:00\n"
+"Language: \n"
+
+msgid "submission.submit.title"
+msgstr "Мақаланы жөнелту"
+
+msgid "submission.submit.userGroup"
+msgstr "Менің рөлімді пайдаланып жіберу ..."
+
+msgid "submission.submit.userGroupDescription"
+msgstr "Мақаланы жіберген рөлді таңдаңыз."
+
+msgid "submission.upload.selectComponent"
+msgstr "Мақала құрамдастарын таңдау"
+
+msgid "submission.title"
+msgstr "Мақала тақырыбы"
+
+msgid "submission.title.tip"
+msgstr "Материал түрі әдетте \"сурет\", \"мәтін\" немесе басқа мультимедиа түрлері, "
+"соның ішінде \"бағдарламалық жасақтама\" немесе \"интерактив\". Өтінеміз, "
+"таңдаңыз ең қолайлы түрі үшін сіздің материал. Мысалдарды табуға болады <a "
+"target= \"_blank\" href=\"http://dublincore."
+"org/documents/2001/04/12/usageguide/generic.shtml#type\">http://dublincore."
+"org/documents/2001/04/12/usageguide/generic.shtml#type</a>"
+
+msgid "submission.submit.newSubmissionMultiple"
+msgstr "Жаңа материалды жіберуді бастау"
+
+msgid "submission.submit.newSubmissionSingle"
+msgstr "Жаңа материал"
+
+msgid "grid.action.workflow"
+msgstr "Жіберу процесі"
+
+msgid "submission.abstract.wordCount.description"
+msgstr "Аннотация {$wordCount} сөзден артық болмауы керек."
+
+msgid "submission.issueEntry"
+msgstr "Метадеректер"
+
+msgid "submission.submit.whatNext.description"
+msgstr "Журнал сіздің материалды жібергені туралы хабардар етілді, жазбаны растау сіздің электрондық поштаңызға жіберілді. Редактор сіздің материалыңызды көргеннен кейін, біз Сізбен хабарласамыз."
+
+msgid "grid.action.galleyInIssueEntry"
+msgstr "Қырлау шығарылымға шықты"
+
+msgid "grid.action.issueEntry"
+msgstr "Осы материалдың метадеректерін көрсету"
+
+msgid "submission.issueEntry.modalTitle"
+msgstr "Жіберілген материалдың метадеректері және жарияланымдары"
+
+msgid "submission.issueEntry.submissionMetadata"
+msgstr "Жіберілген материал"
+
+msgid "submission.issueEntry.publicationMetadata"
+msgstr "Жарияланым"
+
+msgid "submission.issueEntry.confirm"
+msgstr "Төменде келтірілген метадеректер негізінде осы мақала үшін шығарылымда жазба жасау."
+
+msgid "submission.event.articleGalleyMadeAvailable"
+msgstr "\"{$GalleyFormatName} \" мақаласының қырлауы қолжетімді болды."
+
+msgid "submission.event.articleGalleyMadeUnavailable"
+msgstr "\"{$GalleyFormatName} \" мақаласының қырлауы жоқ."
+
+msgid "submission.event.publicIdentifiers"
+msgstr "Жіберілген материалдың ашық идентификаторлары жаңартылды ."
+
+msgid "grid.issueEntry.availableGalley.title"
+msgstr "Пішінді құптау"
+
+msgid "grid.issueEntry.availableGalley.removeMessage"
+msgstr "<p> Бұл гранканы <em>енді</em> оқырмандар қол жетімді ете алмайды .</p>"
+
+msgid "grid.issueEntry.availableGalley.message"
+msgstr "<p> Бұл қырлауды <em></em> оқырманға қол жетімді етуге болады.</p>"
+
+msgid "grid.action.availableArticleGalley"
+msgstr "Бұл қырлауды қол жетімді ету"
+
+msgid "submission.galleyFiles"
+msgstr "Қырлау файлы"
+
+msgid "submission.proofReadingDescription"
+msgstr "Қырлаушы мұнда жариялауға дайындалған толық дайын файлдарды жүктейді. <Em> аудиторды тағайындау < /em>, авторлар мен басқа пайдаланушыларды анықтау үшін қырлауды түзету үшін, түзетілген файлдарды жүктеу және жариялау алдында оларды мақұлдау үшін пайдаланыңыз."
+
+msgid "grid.action.approveProof"
+msgstr "Қырлауға қосу үшін осы сызбаны мақұлдау."
+
+msgid "grid.action.pageProofApproved"
+msgstr "Бұл сызба қырлауға қосу үшін мақұлданды."
+
+msgid "submission.submit.titleAndSummary"
+msgstr "Атауы мен аңдатпасы"
+
+msgid "submission.submit.upload.description"
+msgstr "Осы материалмен байланысты файлдарды жүктеу: мақала, мультимедиа, деректер жиынтығы, өнер туындылары және т. б."
+
+msgid "submission.pageProofs"
+msgstr "Түзеу"
+
+msgid "submission.confirmSubmit"
+msgstr "Сіз бұл мақаланы журналға жібергіңіз келе ме?"
+
+msgid "workflow.review.externalReview"
+msgstr "Рецензиялау"
+
+msgid "editor.submission.decision.sendExternalReview"
+msgstr "Рецензияға жіберу"
+
+msgid "submission.event.issueMetadataUpdated"
+msgstr "Материал үшін метадеректер жаңартылды."
+
+msgid "submission.upload.fileContents"
+msgstr "Мақала компоненті"
+
+msgid "submission.complete"
+msgstr "Мақұлданды"
+
+msgid "submission.incomplete"
+msgstr "Мақұлдауды күтеді"
+
+msgid "submission.submit.form.localeRequired"
+msgstr "Жіберілетін материалдың тілін таңдаңыз."
+
+msgid "submission.submit.submissionChecklist"
+msgstr "Материалды жіберуге дайындаудың бақылау тізімі"
+
+msgid "submission.submit.submissionChecklistDescription"
+msgstr "Сіз материалды жіберуді жалғастырмас бұрын төменде аталған барлық талаптарды орындағанын оқып, растау керек."
+
+msgid "submission.submit.privacyStatement"
+msgstr "Құпиялылық туралы мәлімдеме"
+
+msgid "submission.submit.contributorRole"
+msgstr "Жіберушінің рөлі"
+
+msgid "submission.submit.form.authorRequired"
+msgstr "Кем дегенде бір автор қажет."
+
+msgid "submission.submit.form.authorRequiredFields"
+msgstr "Әрбір автор үшін аты-жөнін, электрондық пошта мекенжайын көрсету қажет."
+
+msgid "submission.submit.form.titleRequired"
+msgstr "Сіздің мақаланың атауын енгізіңіз."
+
+msgid "submission.submit.form.abstractRequired"
+msgstr "Сіздің мақалаңыздың аннотациясын енгізіңіз."
+
+msgid "submission.submit.form.wordCountAlert"
+msgstr "Сіздің аннотация тым ұзын. Оны осы бөлімге берілген сөздер санына дейін қысқартыңыз."
+
+msgid "submission.submit.form.contributorRoleRequired"
+msgstr "Жіберушінің рөлін таңдаңыз."
+
+msgid "submission.citationFormat.notFound"
+msgstr "Библиографиялық сілтемелерді ресімдеудің сұратылған форматын алу мүмкін емес."
+
+msgid "submission.metadataDescription"
+msgstr "Бұл ерекшеліктер Dublin Core метадеректер жиынтығына негізделген — журнал мазмұнын сипаттау үшін пайдаланылатын халықаралық стандарт."
+
+msgid "section.any"
+msgstr "Кез келген бөлім"

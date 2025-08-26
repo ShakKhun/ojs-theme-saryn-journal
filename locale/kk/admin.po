@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T10:49:36+00:00\n"
+"PO-Revision-Date: 2019-11-19T10:49:36+00:00\n"
+"Language: \n"
+
+msgid "admin.hostedJournals"
+msgstr "Сайтағы журналдар"
+
+msgid "admin.settings.journalRedirect"
+msgstr "Журналды қайта бағыттау"
+
+msgid "admin.settings.options"
+msgstr "Параметрлер"
+
+msgid "admin.settings.journalRedirectInstructions"
+msgstr "Сайттың негізгі беті осы журналдың басты беті болады. Бұл пайдалы, мысалы, сайтта тек бір журнал болса."
+
+msgid "admin.settings.noJournalRedirect"
+msgstr "Бағыттамау"
+
+msgid "admin.settings.defaultMetricDescription"
+msgstr "Сіздің OJS инсталляциясы бірнеше пайдалану метрін жазуға теңшелген. "
+"Пайдалану статистикасы бірнеше контексте көрсетіледі.\n"
+"\t\tМысалы, ең көп пайдаланылатын мақалалардың реттелген тізімін көрсету "
+"немесе іздеу нәтижелерін ашу үшін тек бір ғана пайдалану статистикасы "
+"қолданылуы тиіс жағдайлар бар. Әдепкі метрика ретінде теңшелген "
+"метрикалардың бірін таңдаңыз."
+
+msgid "admin.languages.confirmDisable"
+msgstr "Сіз бұл тілді өшіргіңіз келе ме? Бұл қазір оны пайдаланатын барлық журналдарға әсер етуі мүмкін."
+
+msgid "admin.languages.downloadUnavailable"
+msgstr "<p>Public Knowledge Project веб-серверінен тіл бумаларын жүктеу мүмкін емес, "
+"өйткені:< / p>\n"
+"\t<ul>\n"
+"\t\t<li>GNU утилит серверінде сервермен орнатылмаған немесе рұқсат етілмеген."
+"</li>\n"
+"\t\t<li> OJS тіл тізімінің файылын өзгерте алмайды, әдетте \" "
+"registry/locales.xml орналасқан».</li>\n"
+"\t</ul>\n"
+"<p>Тіл пакеттері қолдан жүктелуі мүмкін с <a href=\"http://pkp.sfu.ca\">веб-"
+"сайта PKP</a>.</p>"
+
+msgid "admin.languages.primaryLocaleInstructions"
+msgstr "Бұл сайт және барлық орналастырылған журналдар үшін әдепкі тіл болады."
+
+msgid "admin.languages.supportedLocalesInstructions"
+msgstr "Веб-сайтқа қолдау көрсету үшін барлық Тілдерді таңдаңыз. Таңдалған тілдер осы сайтта орналасқан барлық журналдар үшін қолжетімді болады, сондай-ақ сайттың әр бетінде тілдерді таңдау мәзірінде пайда болады (бұл параметр нақты журнал беттерінде өзгеруі мүмкін). Тек бір тіл таңдалса, тілді ауыстыру мәзірі көрсетілмейді, Журналдарға арналған қосымша тіл параметрлері де қолжетімді болмайды."
+
+msgid "admin.locale.maybeIncomplete"
+msgstr "Белгіленген тілдерді қолдау толық болмауы мүмкін."
+
+msgid "admin.languages.confirmUninstall"
+msgstr "Сіз бұл тілді жойғыңыз келе ме? Бұл қазір оны пайдаланатын барлық журналдарға әсер етуі мүмкін."
+
+msgid "admin.languages.installNewLocalesInstructions"
+msgstr "Осы жүйеге қолдау көрсету үшін қосымша тілдерді таңдаңыз. Тілдер орналастырылған журналдарда пайдалануға болатындай етіп орнатылуы тиіс. Жаңа тілдерді қолдау қосу туралы ақпаратты OJS құжаттамасынан қараңыз\n."
+
+msgid "admin.languages.downloadFailed"
+msgstr "Тілді жүктеу қате аяқталды. Төмендегі хабарламалар осы қатені сипаттайды."
+
+msgid "admin.languages.localeInstalled"
+msgstr "Тіл \"{$locale} \" орнатылған."
+
+msgid "admin.languages.download"
+msgstr "Тілді жүктеу"
+
+msgid "admin.languages.download.cannotOpen"
+msgstr "PKP веб-сайтынан тіл дескрипторын ашу мүмкін емес."
+
+msgid "admin.languages.download.cannotModifyRegistry"
+msgstr "Әдетте \"registry/locales\" ішінде орналасқан тілдер тізімі файлына жаңа "
+"тілді қосу мүмкін емес.xml»."
+
+msgid "admin.auth.ojs"
+msgstr "OJS пайдаланушылар базасы"
+
+msgid "admin.auth.enableSyncProfiles"
+msgstr "Пайдаланушы профильдерін синхрондауды қосу (осы аутентификация модулімен қолдасаңыз). Пайдаланушы профилінің ақпараты пайдаланушы жүйеге кіргенде сыртқы көзден автоматты түрде жаңартылады, ал ojs ішінде жасалған профильдегі өзгерістер (құпия сөзді ауыстыруды қоса алғанда) автоматты түрде сыртқы көзіне енгізіледі. Егер бұл параметр өшірілген болса, OJS пайдаланушы профилінің ақпараты пайдаланушының профилі туралы Сыртқы ақпарат көзіне қарамастан сақталады."
+
+msgid "admin.auth.enableSyncPasswords"
+msgstr "Пайдаланушы паролін Өзгертуді қосу (осы аутентификация модулімен қолдасаңыз). Егер бұл параметр қосылған болса, пайдаланушылар ojs құпия сөзіңізді өзгертіп, ұмытылған құпия сөзді қалпына келтіру үшін OJS құпия сөзін пайдалана алады. Бұл параметрлер өшірілген болса, бұл аутентификация көзі бар пайдаланушылар үшін қол жетімді болмайды."
+
+msgid "admin.auth.enableCreateUsers"
+msgstr "Жаңа пайдаланушыларды жасауды қосу (осы аутентификация модулімен қолдаса). Осы аутентификация көзі бар OJS құралдарымен жасалған пайдаланушылар жоқ болса, аутентификацияның сыртқы көзіне автоматты түрде қосылады.  Сонымен қатар, егер бұл көз әдепкі аутентификация көзі болса, пайдаланушыларды тіркеу арқылы жасалған OJS тіркелгі де сыртқы аутентификация көзіне қосылады\n."
+
+msgid "admin.systemVersion"
+msgstr "OJS нұсқасы"
+
+msgid "admin.systemConfiguration"
+msgstr "OJS конфигурациясы"
+
+msgid "admin.systemConfigurationDescription"
+msgstr "OJS конфигурация параметрлері <tt>config.inc.php</tt>."
+
+msgid "admin.journals.createInstructions"
+msgstr "Сіз автоматты түрде осы журнал басқарушысын жазасыз. Жаңа журналды жасағаннан кейін сіз журналды бастапқы теңшеуді аяқтау үшін журнал теңшеу шеберіне бағытталатын болады ."
+
+msgid "admin.journals.journalSettings"
+msgstr "Журнал параметрлері"
+
+msgid "admin.journals.noneCreated"
+msgstr "Бірде-бір журнал құрылмаған."
+
+msgid "admin.contexts.create"
+msgstr "Журналды құру"
+
+msgid "admin.journals.urlWillBe"
+msgstr "Бұл журналды анықтайтын бір қысқа сөз немесе аббревиатура болуы керек. Журнал URL-і {$sampleUrl болады}."
+
+msgid "admin.contexts.form.titleRequired"
+msgstr "Атауы міндетті түрде."
+
+msgid "admin.contexts.form.pathRequired"
+msgstr "Жолы міндетті түрде."
+
+msgid "admin.contexts.form.pathAlphaNumeric"
+msgstr "Жолда тек ағылшын әліпбиінің әріптері мен сандары, астын сызу және дефистер болуы мүмкін; жол әріппен немесе санмен басталуы және аяқталуы тиіс ."
+
+msgid "admin.contexts.form.pathExists"
+msgstr "Таңдалған жолды басқа журнал пайдаланады."
+
+msgid "admin.journals.enableJournalInstructions"
+msgstr "Осы журналды барлық веб-сайтта көрсетуді қосу"
+
+msgid "admin.journals.journalDescription"
+msgstr "Журналдың сипаттамасы"
+
+msgid "admin.journal.pathImportInstructions"
+msgstr "Бар журнал жолы немесе жаңа жол жасау (мысалы, \"ojs»)."
+
+msgid "admin.journals.importSubscriptions"
+msgstr "Жазылымдарды импорттау"
+
+msgid "admin.journals.transcode"
+msgstr "ISO8859-1-ден метадеректерді кодтау"
+
+msgid "admin.journals.redirect"
+msgstr "Ojs 2 мекенжайына OJS 1 адресін қайта белгілеу үшін кодты жасау"
+
+msgid "admin.journals.form.importPathRequired"
+msgstr "Импорт жолы міндетті."
+
+msgid "admin.journals.importErrors"
+msgstr "Импорттау сәтсіз аяқталды."
+
+msgid "admin.mergeUsers"
+msgstr "Пайдаланушыларды біріктіру"
+
+msgid "admin.mergeUsers.mergeUser"
+msgstr "Біріктіру"
+
+msgid "admin.mergeUsers.into.description"
+msgstr "Алдыңғы пайдаланушының авторлығы, оның редакциялық тапсырмалары және т. б. берілетін пайдаланушыны таңдаңыз ."
+
+msgid "admin.mergeUsers.from.description"
+msgstr "Басқа пайдаланушы тіркелгісіне қосылу үшін пайдаланушыны (немесе бірнешеуін) таңдаңыз (мысалы, біреу өзіне екі есептік жазба енгізген кезде). Бірінші таңдалған тіркелгі (жазбалар) жойылады және онымен байланысты барлық мақалалар, редакциялық тапсырмалар және т. б. екінші тіркелгіге қосылады\n."
+
+msgid "admin.mergeUsers.allUsers"
+msgstr "Барлық жазылған пайдаланушылар"
+
+msgid "admin.mergeUsers.confirm"
+msgstr "Таңдалған {$oldAccountCount} есептік жазбаларды \"{$newUsername} \" пайдаланушы атауымен біріктіргіңіз келе ме? Таңдалған "{$oldAccountCount}" есептік жазбалар осыдан кейін тоқтатылады. Бұл іс-әрекет алып тастауға болмайды\n."
+
+msgid "admin.mergeUsers.noneEnrolled"
+msgstr "Жазылған пайдаланушылар жоқ."
+
+#. Санаты
+msgid "admin.categories"
+msgstr "Санаты"
+
+msgid "admin.categories.enable.description"
+msgstr "Сайт әкімшісі журналдардың көп санын реттеу үшін санаттардың жиынтығын анықтай алады. Журнал менеджерлері содан кейін әрбір журнал үшін осы санаттардың кейбірін таңдай алады, ал оқырмандар санаттары бойынша журналдар коллекциясын көре алады."
+
+msgid "admin.categories.disableCategories"
+msgstr "Журналдарды санаттар бойынша реттемеу."
+
+msgid "admin.categories.enableCategories"
+msgstr "Журналдарды басқарушыларға санаттар бойынша журналдарды ретке келтіруге рұқсат етілсін."
+
+msgid "admin.categories.editTitle"
+msgstr "Санатты өңдеу"
+
+msgid "admin.categories.createTitle"
+msgstr "Санатты жасау"
+
+msgid "admin.categories.create"
+msgstr "Жаңа санат жасау"
+
+msgid "admin.categories.noneCreated"
+msgstr "Бірде-бір санат құрылмаған."
+
+msgid "admin.categories.confirmDelete"
+msgstr "Осы санатты жойғыңыз келетініне сенімдісіз бе?"
+
+msgid "admin.categories.name"
+msgstr "Атауы"
+
+msgid "admin.categories.nameRequired"
+msgstr "Санат атауы міндетті түрде."
+
+msgid "admin.presses.createInstructions"
+msgstr "Сіз автоматты түрде осы журнал басқарушысы болып жазыласыз. Жаңа журналды жасағаннан кейін сіз журналды бастапқы теңшеуді аяқтау үшін журнал теңшеу шеберіне бағытталатын болады ."
+
+msgid "admin.scheduledTask.subscriptionExpiryReminder"
+msgstr "Жазылым аяқталғанын еске салу"
+
+msgid "admin.scheduledTask.openAccessNotification"
+msgstr "Ашық кіру туралы хабарлама"
+
+msgid "admin.scheduledTask.reviewReminder"
+msgstr "Рецензентке ескерту"

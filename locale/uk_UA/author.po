@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T10:49:36+00:00\n"
+"PO-Revision-Date: 2019-11-19T10:49:36+00:00\n"
+"Language: \n"
+
+msgid "author.submit"
+msgstr "Жаңа материал"
+
+msgid "author.track"
+msgstr "Белсенді материалы"
+
+msgid "author.competingInterests"
+msgstr "Қақтығыстар&nbsp;мүдделер <a target=\"_new\" class=\"action\"\n"
+"href=\"{$competingInterestGuidelinesUrl}\"> Мүдделер қақтығысы туралы ереже "
+"</a>"
+
+msgid "author.submit.submitArticle"
+msgstr "Мақаланы жіберу"
+
+msgid "author.submit.stepsToSubmit"
+msgstr "Жөнелту үшін бес қадам"
+
+msgid "author.submit.startHereTitle"
+msgstr "Жаңа материалды жіберуді бастау"
+
+msgid "author.submit.startHereLink"
+msgstr "<a href=\"{$submitUrl}\" class=\"action\"> Мұнда басыңыз </a>,жіберу процесінің бес қадамының біріншісіне өту үшін."
+
+msgid "author.submit.step1"
+msgstr "Қадам 1. Жөнелтудің басталуы"
+
+msgid "author.submit.step2"
+msgstr "Қадам 2. Материалды жүктеу"
+
+msgid "author.submit.step3"
+msgstr "Қадам 3. Метадеректерді енгізу"
+
+msgid "author.submit.step4"
+msgstr "Қадам 4. Қосымша файлдарды жүктеу"
+
+msgid "author.submit.step4a"
+msgstr "Қадам 4a. Қосымша файлды қосу"
+
+msgid "author.submit.step5"
+msgstr "Қадам 5. Материалды жіберуді растау"
+
+msgid "author.submit.start"
+msgstr "Басталуы"
+
+msgid "author.submit.upload"
+msgstr "Материалдың жүктелуі"
+
+msgid "author.submit.metadata"
+msgstr "Метадеректерді енгізу"
+
+msgid "author.submit.supplementaryFiles"
+msgstr "Қосымша файлдарды жүктеу"
+
+msgid "author.submit.confirmation"
+msgstr "Растау"
+
+msgid "author.submit.nextSteps"
+msgstr "Келесі қадамдар"
+
+msgid "submission.submit.cancelSubmission"
+msgstr "Автордың басты бетінде \"белсенді материалдарды\" таңдап, осы жөнелтуді кейінірек аяқтай аласыз."
+
+msgid "author.submit.notAccepting"
+msgstr "Бұл журнал қазір материалдарды қабылдамайды."
+
+msgid "author.submit.requestWaiver"
+msgstr "Төлемнің күшін жоюды сұрау"
+
+msgid "author.submit.qualifyForWaiver"
+msgstr "Осы мақаланы жіберу үшін төлемді алып тастау мүмкіндігін қарастыруыңызды өтінеміз"
+
+msgid "author.submit.addReasonsForWaiver"
+msgstr "Төлем алынып тасталуы тиіс неге себептерін көрсету үшін төмендегі Пікірлер өрісін пайдаланыңыз."
+
+msgid "author.submit.mustEnterWaiverReason"
+msgstr "Егер сіз жіберу үшін төлемді алып тастауды сұрасаңыз, тиісті өрісте себебін көрсету керек."
+
+msgid "author.submissions.queuedReviewSubsequent"
+msgstr "Рецензияға: (раунд {$round})"
+
+msgid "author.submissions.queuedReviewRevisions"
+msgstr "Рецензияға: Өзгерістер қажет"
+
+msgid "author.submissions.queuedEditingCopyedit"
+msgstr "Редакцияда: әдеби редакциялау қажет"
+
+msgid "author.submissions.queuedEditingProofread"
+msgstr "Редакцияда: түзету қажет"
+
+msgid "author.submissions.uploadCopyeditedVersion"
+msgstr "Әдеби өңдеуден өткен нұсқаны жүктеу"
+
+msgid "author.submissions.proofreadingCorrections"
+msgstr "Түзету кезіндегі түзеулер"
+
+msgid "author.submissions.confirmDelete"
+msgstr "Сіз жіберілуі аяқталмаған осы материалды жойғыңыз келе ме?"
+
+msgid "author.submissions.viewStatus"
+msgstr "Мәртебені көрсету"
+
+msgid "author.submissions.noSubmissions"
+msgstr "Жіберілген материалдар жоқ."
+
+msgid "author.submit.journalSection"
+msgstr "Журнал бөлімі"
+
+msgid "author.submit.journalSectionDescription"
+msgstr "Осы материал үшін қолайлы бөлімді таңдаңыз (\"бөлімдер мен ережелерді\" "
+"қараңыз, беттегі <a href=\"{$aboutUrl}\" target=\"_new\">«Журнал туралы»</a>)"
+"."
+
+msgid "author.submit.verifyChecklist"
+msgstr "Жалғастыру үшін барлық тармақтардың жөнелтуді бақылау тізімінде орындалғанына көз жеткізу керек."
+
+msgid "author.submit.copyrightNoticeAgree"
+msgstr "Авторлар осы журналда жарияланған жағдайда осы материалға қолданылатын авторлық құқықтарды беру шарттарымен келіседі (редакторға түсініктемелер төменде қосылуы мүмкін)."
+
+msgid "author.submit.copyrightNoticeAgreeRequired"
+msgstr "Жалғастыру үшін сіз авторлық құқықтарды беру шарттарын қабылдау керексіз."
+
+msgid "submission.submit.coverNote"
+msgstr "Редакторға түсініктеме"
+
+msgid "author.submit.comments"
+msgstr "Мәтінді енгізіңіз (міндетті емес)"
+
+msgid "author.submit.form.sectionRequired"
+msgstr "Осы материал үшін тиісті Журнал бөлімін таңдаңыз."
+
+msgid "author.submit.form.localeRequired"
+msgstr "Жіберілген материалдың тілін таңдауыңызды өтінеміз."
+
+msgid "submission.submit.privacyStatement"
+msgstr "Құпиялылық туралы журналдың мәлімдемесі"
+
+msgid "author.submit.reorderInstructions"
+msgstr "Авторлардың аттарын жарияланымда көрсетілген тәртіппен қойыңыз."
+
+msgid "author.submit.reorder"
+msgstr "Автордың атын жылжыту"
+
+msgid "author.submit.selectPrincipalContact"
+msgstr "Редакциямен хат жазысу үшін негізгі автор."
+
+msgid "author.submit.addAuthor"
+msgstr "Авторды қосу"
+
+msgid "author.submit.deleteAuthor"
+msgstr "Авторды өшіру"
+
+msgid "author.submit.submissionIndexingDescription"
+msgstr "Осы материалды индекстеу үшін кілт сөздерді көрсетіңіз; кілт сөздерді нүкте-үтірмен бөліңіз (сөз1; сөз2; сөз3)."
+
+msgid "author.submit.coverageInstructions"
+msgstr "Зерттеудің геокеңістік, хронологиялық немесе тарихи қамтылуын және/немесе зерттелетін объектінің сипаттамасын сипаттаңыз."
+
+msgid "author.submit.languageInstructions"
+msgstr "English=en; French=fr; Spanish=es; Russian=ru. <a href=\"http://www.loc."
+"gov/standards/iso639-2/php/code_list.php\" target=\"_blank\"> Қосымша кодтар "
+"</a>."
+
+msgid "author.submit.form.authorRequired"
+msgstr "Кем дегенде бір автор міндетті."
+
+msgid "author.submit.form.authorRequiredFields"
+msgstr "Әрбір автор үшін міндетті түрде аты, тегі және электрондық пошта адресін енгізу керек."
+
+msgid "author.submit.form.titleRequired"
+msgstr "Сіздің мақалаңыздың атауын енгізіңіз."
+
+msgid "author.submit.form.abstractRequired"
+msgstr "Сіздің мақалаңыздың аңдатпасын енгізіңіз."
+
+msgid "author.submit.form.wordCountAlert"
+msgstr "Сіз осы бөлімде Аңдатпа үшін ең көп сөз санынан асып кетесіз."
+
+msgid "author.submit.submissionFile"
+msgstr "Жіберілген файл"
+
+msgid "author.submit.uploadSubmissionFile"
+msgstr "Жіберу үшін файлды жүктеу"
+
+msgid "author.submit.replaceSubmissionFile"
+msgstr "Жіберу үшін файлды ауыстыру"
+
+msgid "author.submit.noSubmissionFile"
+msgstr "Жіберілген файл жүктелмеген."
+
+msgid "author.submit.noSubmissionConfirm"
+msgstr "Жіберілетін материалмен файлды жүктемей жалғастырғыңыз келе ме?"
+
+msgid "author.submit.supplementaryFilesInstructions"
+msgstr "Бұл қадам міндетті емес, ол сіздің материалыңызға қосымша файлдарды қосуға мүмкіндік береді. Бұл файлдар кез келген пішімде болуы мүмкін және (А) бағдарламаны зерттеу үшін пайдаланылған, (b) қабылданған зерттеу әдебі ережелеріне сәйкес құрылған деректер жиынтығы, (с) оқырмандарға басқа тәсілмен қол жеткізе алмайтын дерек көздері, (d) мәтіннің өзіне қоюға болмайтын суреттер мен кестелер, немесе жұмысқа құндылықтарды қосатын басқа да материалдар."
+
+msgid "author.submit.supplementaryFiles.saveToUpload"
+msgstr "Файлды жүктеу үшін «Сақтау» түймешігін басыңыз (содан кейін басқа файлдарды жүктеуге болады)."
+
+msgid "author.submit.forgottenSubmitSuppFile"
+msgstr "Сіз таңдаған қосымша файлды жүктеусіз жалғастырғыңыз келе ме?"
+
+msgid "author.submit.noSupplementaryFiles"
+msgstr "Қосымша файлдар осы материалға қосылмаған."
+
+msgid "author.submit.backToSupplementaryFiles"
+msgstr "Қосымша файлдарға оралу"
+
+msgid "author.submit.confirmDeleteSuppFile"
+msgstr "Бұл қосымша файлды жойғыңыз келе ме?"
+
+msgid "author.submit.uploadSuppFile"
+msgstr "Қосымша файлды жүктеу"
+
+msgid "author.submit.addSupplementaryFile"
+msgstr "Қосымша файлды қосу"
+
+msgid "author.submit.editSupplementaryFile"
+msgstr "Қосымша файлды өңдеу"
+
+msgid "author.submit.supplementaryFileData"
+msgstr "Қосымша файл метадеректері"
+
+msgid "author.submit.supplementaryFileDataDescription"
+msgstr "Қосымша материалды индекстеу үшін жүктелген қосымша файл үшін келесі метадеректерді көрсетіңіз."
+
+msgid "author.submit.supplementaryFileUpload"
+msgstr "Қосымша файл"
+
+msgid "author.submit.suppFile.createrOrOwner"
+msgstr "Файл жасаушы (немесе иесі)"
+
+msgid "author.submit.suppFile.researchInstrument"
+msgstr "Зерттеу құралы"
+
+msgid "author.submit.suppFile.researchMaterials"
+msgstr "Зерттеу материалдары"
+
+msgid "author.submit.suppFile.researchResults"
+msgstr "Зерттеу нәтижелер"
+
+msgid "author.submit.suppFile.transcripts"
+msgstr "Транскрипттер"
+
+msgid "author.submit.suppFile.dataAnalysis"
+msgstr "Деректерді талдау"
+
+msgid "author.submit.suppFile.dataSet"
+msgstr "Деректер жинағы"
+
+msgid "author.submit.suppFile.sourceText"
+msgstr "Бастапқы мәтін"
+
+msgid "author.submit.suppFile.briefDescription"
+msgstr "Қысқаша сипаттамасы"
+
+msgid "author.submit.suppFile.availableToPeers"
+msgstr "Файлдарды рецензенттерге беру (метадерексіз), өйткені ол соқыр рецензиялау талаптарын бұзбайды."
+
+msgid "author.submit.suppFile.publisherDescription"
+msgstr "Тек ресми жарияланған материалдар үшін қолданылады."
+
+msgid "author.submit.suppFile.dateDescription"
+msgstr "Деректерді жинау немесе құралды құру күні."
+
+msgid "author.submit.suppFile.sourceDescription"
+msgstr "Зерттеудің немесе материалдың басқа дерек көздерінің атауы."
+
+msgid "author.submit.suppFile.specifyOtherType"
+msgstr "Басқасын көрсету"
+
+msgid "author.submit.suppFile.noFile"
+msgstr "Жүктелген файлдар жоқ."
+
+msgid "author.submit.suppFile.form.titleRequired"
+msgstr "Осы қосымша файлдың атауын енгізіңіз."
+
+msgid "author.submit.suppFile.form.subjectRequired"
+msgstr "Тақырыпты енгізіңіз."
+
+msgid "author.submit.suppFile.form.descriptionRequired"
+msgstr "Сипаттама енгізуіңізді өтінеміз."
+
+msgid "author.suppFile.suppFilePublicIdentificationExists"
+msgstr "Қосымша файлдың ашық идентификациясы бар."
+
+msgid "author.suppFile.publicSuppFileIdentifier"
+msgstr "Қосымша файлдың ашық идентификаторы"
+
+msgid "author.submit.confirmationDescription"
+msgstr "Сіздің материалыңызды журналға жіберу үшін, \"жіберуді аяқтау\" басыңыз "
+"«{$journalTitle}». Редакциямен хат алмасу үшін, көрсетілген негізгі автор, "
+"Электрондық пошта арқылы Растауды алады және журналдың веб-сайтына кіріп, "
+"редакциялық процесс арқылы материалдың өтуін қадағалауға мүмкіндігі болады.  "
+"Журналдағы жарияланымға қызығушылық үшін рахмет. «{$journalTitle}»."
+
+msgid "author.submit.noFiles"
+msgstr "Бірде-бір файл осы жіберілетін материалға тіркелген жоқ."
+
+msgid "author.submit.filesSummary"
+msgstr "Файлдар туралы мәлімет"
+
+msgid "author.submit.finishSubmission"
+msgstr "Жөнелтуді аяқтау"
+
+msgid "author.submit.submissionComplete"
+msgstr "Материал жіберілді. Журналдағы жарияланымға қызығушылық үшін рахмет "
+"«{$journalTitle}»."
+
+msgid "author.article.uploadAuthorVersion"
+msgstr "Автор нұсқасын жүктеу"
+
+msgid "author.article.copyeditedFile"
+msgstr "Әдеби редакциялаудан кейінгі Файл"
+
+msgid "author.article.authorRevisedFile"
+msgstr "Автор файлы"
+
+msgid "author.submit.authorSubmitLoginMessage"
+msgstr "Бұл журналға жіберу үшін есептік жазба қажет. Бұл біздің редакторларға сіз жіберген материалдарды қадағалауға және материал мәртебесі өзгергенде немесе Сізден қосымша ақпарат талап етілсе, сізбен байланысуға мүмкіндік."

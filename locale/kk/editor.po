@@ -1,0 +1,429 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T10:49:37+00:00\n"
+"PO-Revision-Date: 2019-11-19T10:49:37+00:00\n"
+"Language: \n"
+
+msgid "editor.submissionReview.doubleAnonymous"
+msgstr "Анонимді шолушы/Анонимді автор"
+
+msgid "editor.submissionReview.anonymous"
+msgstr "Анонимді шолушы/Автор белгілі"
+
+msgid "editor.home"
+msgstr "Тека редактора"
+
+msgid "editor.reassign"
+msgstr "Қайта тағайындау"
+
+msgid "editor.submissionsAndPublishing"
+msgstr "Жіберу және жариялау"
+
+msgid "editor.submissionQueue"
+msgstr "Редакциялық кезек"
+
+msgid "editor.submissionArchive"
+msgstr "Материалдар мұрағаты"
+
+msgid "editor.publishing"
+msgstr "Басылым"
+
+msgid "editor.publishedIssues"
+msgstr "Жарияланған мәселелер"
+
+msgid "editor.allSections"
+msgstr "Барлық бөлімдер"
+
+msgid "editor.allEditors"
+msgstr "Барлық редакторлар"
+
+msgid "editor.me"
+msgstr "Мен"
+
+msgid "editor.publicIdentificationExists"
+msgstr "'{$publicIdentifier}' идентификаторы басқа нысан (мәселе, мақала, филиал немесе қосымша файл) үшін бұрыннан бар. Осы журнал үшін бірегей идентификатор беріңіз."
+
+msgid "editor.submissionArchive.noSubmissions"
+msgstr "Мұрағатта материалдар жоқ."
+
+msgid "editor.submissionArchive.saveChanges"
+msgstr "Мұрағатталған материалдарға өзгертулер сақталсын ба? Жою керек деп белгіленген жіберулер жүйеден біржола жойылады."
+
+msgid "editor.submissionArchive.confirmDelete"
+msgstr "Бұл жіберуді біржола жойғыңыз келетініне сенімдісіз бе?"
+
+msgid "editor.submissionReview.confirmDecision"
+msgstr "Бұл шешімді шынымен сақтағыңыз келе ме?"
+
+msgid "editor.submissionReview.emailWillArchive"
+msgstr "Бұл жіберу авторға хабарлама жіберілгеннен кейін немесе \"Хатты жіберуді өткізіп жіберу\" түймесін басқаннан кейін мұрағатталады."."
+
+msgid "editor.submissionReview.cannotSendToCopyediting"
+msgstr "Әдеби редакцияға ұсыныс жібермес бұрын, авторға шешіміңіз туралы хабарлау және әдеби редакциялау нұсқасын анықтау үшін \"Авторды хабардар ету\" сілтемесін пайдаланыңыз."
+
+msgid "editor.submissionReview.sendToCopyediting"
+msgstr "Әдеби редакцияға жіберіңіз"
+
+msgid "editor.notifyUsers"
+msgstr "Пайдаланушыларға хабарлау"
+
+msgid "editor.notifyUsers.allUsers"
+msgstr "Бұл хабарды осы журналмен байланыстырылған барлық пайдаланушыларға жіберу ({$count} пайдаланушы)"
+
+msgid "editor.notifyUsers.allReaders"
+msgstr "Барлық оқырмандарға ({$count} пайдаланушы)"
+
+msgid "editor.notifyUsers.allAuthors"
+msgstr "Барлық жарияланған авторларға ({$count} пайдаланушы)"
+
+msgid "editor.notifyUsers.allIndividualSubscribers"
+msgstr "Барлық жеке жазылушыларға ({$count} пайдаланушы)"
+
+msgid "editor.notifyUsers.allInstitutionalSubscribers"
+msgstr "Барлық жазылушы мекемелерге ({$count} пайдаланушы)"
+
+msgid "editor.notifyUsers.inProgress"
+msgstr "Хабарламалар пайдаланушыларға жіберіледі ..."
+
+msgid "editor.usersNotified"
+msgstr "Пайдаланушыларға хабарланды"
+
+msgid "editor.notifyUsers.interestedUsers"
+msgstr "Бұл хабарды тек жаңалықтарды алғысы келетін журнал пайдаланушыларына жіберіңіз ({$count} пайдаланушы)"
+
+msgid "editor.notifyUsers.includeToc"
+msgstr "Осы шығарылымның мазмұны бетін қосыңыз:"
+
+msgid "editor.editorAdministration"
+msgstr "Редактор: Әкімшілік"
+
+msgid "editor.issues.createIssue"
+msgstr "Шығарылым жасау"
+
+msgid "editor.issues.editIssue"
+msgstr "Шығарылымды басқару: {$issueIdentification}"
+
+msgid "editor.issues.currentIssue"
+msgstr "Ағымдағы шығарылым"
+
+msgid "editor.issues.numArticles"
+msgstr "Материалдар саны"
+
+msgid "editor.issues.noArticles"
+msgstr "Бұл нөмірде әлі ешқандай мақала жарияланбаған."
+
+msgid "editor.issues.confirmDelete"
+msgstr "Осы шығарылымды мүлдем жойғыңыз келетініне сенімдісіз бе?"
+
+msgid "editor.issues.published"
+msgstr "Жарияланды"
+
+msgid "editor.issues.unpublished"
+msgstr "Жарияланбаған"
+
+msgid "editor.issues.datePublished"
+msgstr "Жарияланған күні"
+
+msgid "editor.issues.volumeRequired"
+msgstr "Том нөмірі үшін оң сандық мәнді енгізу керек."
+
+msgid "editor.issues.numberRequired"
+msgstr "Шығарылым нөмірі үшін оң сандық мәнді енгізу керек."
+
+msgid "editor.issues.yearRequired"
+msgstr "Жарияланған жыл үшін оң сандық мәнді енгізу қажет."
+
+msgid "editor.issues.titleRequired"
+msgstr "Бұл шығарылымның атауы көрсетілуі керек."
+
+msgid "editor.issues.issueIdentificationRequired"
+msgstr "Шығарылым идентификаторын енгізу керек. Сәйкестендіру опцияларының кем дегенде біреуін таңдаңыз."
+
+msgid "editor.issues.issueIdentification"
+msgstr "Шығарылым идентификаторы"
+
+msgid "editor.issues.publicIssueIdentifier"
+msgstr "Жалпыға ортақ шығарылым идентификаторы"
+
+msgid "editor.issues.description"
+msgstr "Сипаттама"
+
+msgid "editor.issues.accessStatus"
+msgstr "Қол жеткізу күйі"
+
+msgid "editor.issues.accessDate"
+msgstr "Қол жеткізудің ашылу күні"
+
+msgid "editor.issues.enableOpenAccessDate"
+msgstr "Уақыты бар ашық кіруге рұқсат беріңіз"
+
+msgid "editor.issues.coverPage"
+msgstr "Қақпақ"
+
+msgid "editor.issues.coverPageInstructions"
+msgstr "(рұқсат етілген форматтар: .gif, .jpg або .png)"
+
+msgid "editor.issues.uploaded"
+msgstr "Жүктелді"
+
+msgid "editor.issues.remove"
+msgstr "Жою"
+
+msgid "editor.issues.proofed"
+msgstr "Тексерілді"
+
+msgid "editor.issues.removeCoverPage"
+msgstr "Мұқаба суретін жою керек пе?"
+
+msgid "editor.issues.removeCoverImageFileNameMismatch"
+msgstr "Жойғыңыз келетін мұқаба суреті осы мәселенің мұқаба суретіне сәйкес келмейді. Бетті қайта жүктеп, әрекетті қайталаңыз."
+
+msgid "editor.issues.removeCoverImageFileNotFound"
+msgstr "Жойғыңыз келетін мұқаба суреті табылмады. Ол әлдеқашан жойылған болуы мүмкін. Бетті қайта жүктеп көріңіз."
+
+msgid "editor.issues.invalidCoverPageFormat"
+msgstr "Мұқаба кескінінің пішімі жарамсыз. Рұқсат етілген форматтар .gif, .jpg або .png."
+
+msgid "editor.issues.styleFile"
+msgstr "Стиль парағы"
+
+msgid "editor.issues.invalidStyleFormat"
+msgstr "Стильдер кестесінің файл пішімі жарамсыз. Файл дұрыс CSS пішімін пайдаланатынына көз жеткізіңіз. (Пікірлерден басталатын стиль кестелерін қабылдауға болмайтынын ескеріңіз.)"
+
+msgid "editor.issues.removeStyleFile"
+msgstr "Стиль кестесін жою керек пе?"
+
+msgid "editor.issues.coverPageCaption"
+msgstr "Мұқаба тақырыбы"
+
+msgid "editor.issues.showCoverPage"
+msgstr "Келесі элементтермен осы мәселенің мұқабасын жасаңыз."
+
+msgid "editor.issues.coverPageDisplay"
+msgstr "Көрсету"
+
+msgid "editor.issues.openAccess"
+msgstr "Ашық қолжетімділік"
+
+msgid "editor.issues.subscription"
+msgstr "Жазылым"
+
+msgid "editor.issues.identification"
+msgstr "Сәйкестендіру"
+
+msgid "editor.issues.access"
+msgstr "Қол жеткізу"
+
+msgid "editor.issues.cover"
+msgstr "Қақпақ"
+
+msgid "editor.issues.confirmIssueDelete"
+msgstr "Всі статті повернуться до редакційної черги, а всі файли, асоційовані з випуском, будуть видалені назавжди. Ви впевнені, що хочете видалити цей випуск?"
+
+msgid "editor.issues.resetIssueOrder"
+msgstr "Цей журнал використовує нестандартне сортування випусків. <a href=\"{$url}\" class=\"action\">Скинути сортування до стандартного</a>"
+
+msgid "editor.issues.resetSectionOrder"
+msgstr "Цей випуск використовує нестандартне сортування розділів. <a href=\"{$url}\" class=\"action\">Скинути сортування до стандартного</a>"
+
+msgid "editor.issues.issueData"
+msgstr "Деректерді шығару"
+
+msgid "editor.issues.saveChanges"
+msgstr "Зберегти зміни в змісті випуска?"
+
+msgid "editor.issues.default"
+msgstr "За замовчуванням"
+
+msgid "editor.issues.order"
+msgstr "Сортування"
+
+msgid "editor.issues.publicId"
+msgstr "Ідентифікатор"
+
+msgid "editor.issues.publishIssue"
+msgstr "Опублікувати випуск"
+
+msgid "editor.issues.unpublishIssue"
+msgstr "Мәселені жариялаудан бас тарту"
+
+msgid "editor.issues.previewIssue"
+msgstr "Випуск Көрсету"
+
+msgid "editor.issues.preview"
+msgstr "(Попередній перегляд)"
+
+msgid "editor.issues.confirmPublish"
+msgstr "Ви впевнені, що хочете опублікувати новий випуск?"
+
+msgid "editor.issues.confirmUnpublish"
+msgstr "Ви впевнені, що хочете скасувати публікацію цього опублікованого випуску?"
+
+msgid "editor.issues.confirmSetCurrentIssue"
+msgstr "Ви впевнені, що хочете зробити даний випуск поточним?"
+
+msgid "editor.issues.publicArticleIdExists"
+msgstr "Неможливо зберегти публічний ідентифікатор статті:"
+
+msgid "editor.issues.noLiveIssues"
+msgstr "Немає опублікованих випусків"
+
+msgid "editor.issues.open"
+msgstr "Відкритий"
+
+msgid "editor.issues.pages"
+msgstr "Беттер"
+
+msgid "editor.issues.galleys"
+msgstr "Гранки випуску"
+
+msgid "editor.issues.galley"
+msgstr "Гранка випуску"
+
+msgid "editor.issues.viewingGalley"
+msgstr "Переглядів гранки випуску"
+
+msgid "editor.issues.issueGalleysDescription"
+msgstr "Публікувати гранки з повним змістом випуску"
+
+msgid "editor.issues.noneIssueGalleys"
+msgstr "Жодної гранки випуску не було опубліковано."
+
+msgid "editor.issues.galleyLabelRequired"
+msgstr "Шығару бетінің белгісін көрсету керек."
+
+msgid "editor.issues.galleyLocaleRequired"
+msgstr "Шығару бетінің локализациясын көрсету қажет."
+
+msgid "editor.issues.galleyPublicIdentificationExists"
+msgstr "Көрсетілген шығарылым бетінің идентификаторы бұрыннан бар."
+
+msgid "editor.issues.backToIssueGalleys"
+msgstr "Шығарылым шекараларына оралу"
+
+msgid "editor.issues.confirmDeleteGalley"
+msgstr "Шығарылымның осы қырын жойғыңыз келетініне сенімдісіз бе?"
+
+msgid "editor.issues.identifiers"
+msgstr "Идентификаторлар"
+
+msgid "editor.navigation.futureIssues"
+msgstr "Болашақ шығарылымдар"
+
+msgid "grid.action.addGalley"
+msgstr "Гранка қосыңыз"
+
+msgid "grid.action.publish"
+msgstr "Шығарылымды жариялау"
+
+msgid "grid.action.addIssue"
+msgstr "Шығарылым жасау"
+
+msgid "grid.action.viewIssue"
+msgstr "Көрсету"
+
+msgid "grid.action.previewIssue"
+msgstr "Алдын ала қарау"
+
+msgid "grid.action.addIssueGalley"
+msgstr "Шығарылым бетін жасаңыз"
+
+msgid "grid.action.setCurrentIssue"
+msgstr "Ағымдағы шығарылымды орнатыңыз"
+
+msgid "editor.navigation.issueArchive"
+msgstr "Өткен шығарылымдар"
+
+msgid "editor.article.designateReviewVersion"
+msgstr "Позначити оригінальний файл як версію для рецензування"
+
+msgid "editor.article.decision"
+msgstr "Рішення"
+
+msgid "editor.submissions.showBy"
+msgstr "Сортувати за"
+
+msgid "editor.submissions.submitMMDD"
+msgstr "Відправити ММ-ДД"
+
+msgid "editor.submissions.activeAssignments"
+msgstr "Активні призначення"
+
+msgid "editor.submissions.invite"
+msgstr "Запросити"
+
+msgid "editor.submissions.accept"
+msgstr "Прийняти"
+
+msgid "editor.submissions.noSubmissions"
+msgstr "Немає матеріалів"
+
+msgid "editor.submissions.lastAssigned"
+msgstr "Остання"
+
+msgid "editor.submissions.averageTime"
+msgstr "Тижнів"
+
+msgid "editor.submissions.lastCompleted"
+msgstr "Остання завершена"
+
+msgid "editor.submissions.assignedTo"
+msgstr "Призначено"
+
+msgid "editor.submissions.inSection"
+msgstr "У розділі"
+
+msgid "editor.article.scheduleForPublication"
+msgstr "Запланувати для публікації у"
+
+msgid "editor.article.scheduleForPublication.toBeAssigned"
+msgstr "Буде визначено"
+
+msgid "editor.article.payment.publicationFeeNotPaid"
+msgstr "Плата за публікацію не отримана. Щоб внести статтю до графіку публікації, нагадайте автору про необхідність сплати рахунку або зробіть виняток та скасуйте плату."
+
+msgid "editor.article.removeCoverImageFileNotFound"
+msgstr "Зображення обкладинки, яке ви хочете видалити, не вдається знайти. Можливо воно вже було видалено. Спробуйте перезавантажити сторінку."
+
+msgid "editor.issues.invalidCoverImageFormat"
+msgstr "Хибний формат зображення обкладинки. Дозволені формати: .gif, .jpg, .png."
+
+msgid "grid.action.removeArticle"
+msgstr "Видалити статтю з випуску"
+
+msgid "editor.article.remove"
+msgstr "Жою"
+
+msgid "editor.article.remove.confirm"
+msgstr "Ви впевнені, що хочете видалити цю статтю з випуску? Стаття буде доступна для планування в інший випуск."
+
+msgid "editor.issues.invalidAccessDate"
+msgstr "Дата доступа не корректна."
+
+msgid "editor.issues.editIssueGalley"
+msgstr "Редагувати гранку випуску"
+
+msgid "editor.submission.production.productionReadyFilesDescription"
+msgstr "Верстальник підготує файли кожної гранки та завантажить їх у відповідні місця розділу <span class=\"pkp_help_title\">«Коректура»</span> for proofreading."
+
+msgid "editor.submission.selectGalleyFiles"
+msgstr "Вибрати файли гранок"
+
+msgid "editor.submission.editorial.finalDraftDescription"
+msgstr "Готові файли чернеток з цього списку, пройшовши літературне редагування, завантажені літературним редактором в розділ <span class=\"pkp_help_title\">«Літературне редагування»</span>."
+
+msgid "editor.submission.proof.manageProofFilesDescription"
+msgstr "Всі файли, які були завантажені на будь-якому етапі подання рукопису, можуть бути додані в список «Коректура», для цього потрібно поставити галочку «Включити» нижче і клацнути на кнопці «Пошук»: всі доступні файли будуть показані в списку і можуть бути обрані для включення."
+
+msgid "editor.publicIdentificationExistsForTheSameType"
+msgstr "Публічний ідентифікатор '{$publicIdentifier}' вже існує для іншого об'єкту такого ж типу. Будь ласка, обирайте унікальні Ідентифікатори для об'єктів одного типу у Вашому журналі."
+
+msgid "editor.article.coverImage"
+msgstr "Мұқабаның суреті"

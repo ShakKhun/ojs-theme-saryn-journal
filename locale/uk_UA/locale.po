@@ -1,0 +1,2628 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-19T10:49:37+00:00\n"
+"PO-Revision-Date: 2019-11-19T10:49:37+00:00\n"
+"Language: \n"
+
+msgid "plugins.themes.healthSciences.name"
+msgstr "Health Sciences Theme"
+
+msgid "plugins.themes.healthSciences.description"
+msgstr "An OJS theme designed with a focus on text legibility and content clarity as well as an understated palette of light greys and white."
+
+msgid "plugins.themes.healthSciences.option.colour.label"
+msgstr "Primary Colour"
+
+msgid "plugins.themes.healthSciences.option.colour.description"
+msgstr "Select the primary colour for your journal brand."
+
+msgid "plugins.themes.healthSciences.nav.toggle"
+msgstr "Toggle Navigation"
+
+msgid "plugins.themes.healthSciences.language.toggle"
+msgstr "Change the language. The current language is:"
+
+msgid "plugins.themes.healthSciences.currentIssuePublished"
+msgstr "Барлық шығарылымды PDF форматында жүктеңіз"
+
+msgid "plugins.themes.healthSciences.issueDescription"
+msgstr "Issue Description"
+
+msgid "plugins.themes.healthSciences.issuePubId"
+msgstr "{$pubIdType}: {$pubId}"
+
+msgid "plugins.themes.healthSciences.more"
+msgstr "{$text}…"
+
+msgid "plugins.themes.healthSciences.article.authorBio"
+msgstr "Bio"
+
+msgid "plugins.themes.healthSciences.article.supplementaryFiles"
+msgstr "Supplementary Files"
+
+msgid "plugins.themes.healthSciences.register.haveAccount"
+msgstr "Already have an account?"
+
+msgid "plugins.themes.healthSciences.register.loginHere"
+msgstr "Login here"
+
+msgid "plugins.themes.healthSciences.register.noAccount"
+msgstr "No account?"
+
+msgid "plugins.themes.healthSciences.register.registerHere"
+msgstr "Register here"
+
+msgid "plugins.themes.healthSciences.search.resultsFor"
+msgstr "Search Results for <em>{$query}</em>"
+
+msgid "plugins.themes.healthSciences.search.params"
+msgstr "Search Parameters"
+
+msgid "plugins.themes.healthSciences.zerone.link"
+msgstr "Разработка сайта — Zerone Technology"
+
+msgid "plugins.themes.healthSciences.kisi.name"
+msgstr "© Казахстанский институт стратегических исследований"
+
+msgid "information.link"
+msgstr "Ақпарат"
+
+msgid "navigation.sendarticle"
+msgstr "Мақала жіберу"
+
+msgid "about.onlineSubmissions.submitToSection"
+msgstr "Отправить новый материал в раздел <a href=\"{$url}\">«{$name}»</a>."
+
+msgid "user.academic_degree"
+msgstr "Ғылыми дәреже"
+
+msgid "user.academic_title"
+msgstr "Ғылыми атағы"
+
+msgid "user.a_position"
+msgstr "Қызмет"
+
+zerone.kokson
+msgid "zerone.kokson"
+msgstr "БжҒСБК"
+
+msgid "common.homepageNavigationLabel"
+msgstr "Негізгі Бет"
+
+msgid "Zerone.translation"
+msgstr "Социальные сети"
+
+msgid "Zerone.translation2"
+msgstr "Контактная информация"
+
+msgid "Zerone.trans2"
+msgstr "Социальные сети"
+
+msgid "common.software"
+msgstr "Open Journal Systems"
+
+msgid "context.current"
+msgstr "Ағымдағы журнал:"
+
+msgid "context.select"
+msgstr "Басқа журналға ауысу:"
+
+msgid "navigation.categories"
+msgstr "Санаттар"
+
+msgid "navigation.categories.browse"
+msgstr "Шолу"
+
+msgid "reviewer.article.enterReviewForm"
+msgstr "Рецензия нысанын толтыру үшін белгішені басыңыз."
+
+msgid "reviewer.submission.reviewFormResponse.form.responseRequired"
+msgstr "Міндетті өрістерді толтырыңыз."
+
+msgid "common.openJournalSystems"
+msgstr "Open Journal Systems"
+
+msgid "common.confirmComplete"
+msgstr ""
+"Бұл міндетті аяқталған деп атап өткіңіз келеді ме? Осыдан кейін сіз "
+"өзгерістер енгізе алмайсыз \n"
+"."
+
+msgid "common.payment"
+msgstr "Төлем"
+
+msgid "common.payments"
+msgstr "Төлемдер"
+
+msgid "common.homePageHeader.altText"
+msgstr "Басты бет тақырыбы"
+
+msgid "common.journalHomepageImage.altText"
+msgstr "Журналдың басты бетінің бейнесі"
+
+msgid "navigation.journalHelp"
+msgstr "Көмек"
+
+msgid "navigation.current"
+msgstr "Ағымдағы шығарылым"
+
+msgid "navigation.otherJournals"
+msgstr "Басқа журналдар"
+
+msgid "navigation.browseByIssue"
+msgstr "Шығарылым бойынша"
+
+msgid "navigation.browseByAuthor"
+msgstr "Авторлар бойынша"
+
+msgid "navigation.infoForAuthors"
+msgstr "Авторовға"
+
+msgid "navigation.infoForLibrarians"
+msgstr "Кітапханаға"
+
+msgid "navigation.competingInterestGuidelines"
+msgstr "Мүдделер қақтығысы туралы декларацияны толтыру жөніндегі нұсқаулық"
+
+msgid "navigation.infoForAuthors.long"
+msgstr "Авторовға ақпарат"
+
+msgid "navigation.infoForLibrarians.long"
+msgstr "Кітапханаларға ақпарат"
+
+msgid "common.queue.long.submissionsUnassigned"
+msgstr "Тағайындалмаған"
+
+msgid "common.queue.short.submissionsUnassigned"
+msgstr "Жаңалар"
+
+msgid "common.queue.long.submissionsInEditing"
+msgstr "Редакциялау кезеңіндегі материалдар"
+
+msgid "common.queue.short.submissionsInEditing"
+msgstr "Редакцияда"
+
+msgid "common.queue.long.submissionsInReview"
+msgstr "Рецензиялау кезеңіндегі материалдар"
+
+msgid "common.queue.short.submissionsInReview"
+msgstr "Рецензияда"
+
+msgid "common.queue.long.submissionsArchives"
+msgstr "Мұрағаттар"
+
+msgid "common.queue.short.submissionsArchives"
+msgstr "Мұрағаттар"
+
+msgid "common.queue.long.active"
+msgstr "Жұмыста"
+
+msgid "common.queue.short.active"
+msgstr "Жұмыста"
+
+msgid "common.queue.long.completed"
+msgstr "Мұрағат"
+
+msgid "common.queue.short.completed"
+msgstr "Мұрағат"
+
+msgid "section.section"
+msgstr "Бөлім"
+
+msgid "section.sections"
+msgstr "Журнал бөлімдері"
+
+msgid "section.title"
+msgstr "Бөлімнің атауы"
+
+msgid "section.abbreviation"
+msgstr "Аббревиатура"
+
+msgid "section.abbreviation.example"
+msgstr "(Мысалы, Мақала=МҚ)"
+
+msgid "article.article"
+msgstr "Мақала"
+
+msgid "article.articles"
+msgstr "Мақалалар"
+
+msgid "article.submissionId"
+msgstr "ID материалдың"
+
+msgid "article.title"
+msgstr "Атауы"
+
+msgid "article.authors"
+msgstr "Авторлар"
+
+msgid "article.indexingInformation"
+msgstr "Индекстеуге арналған  материалдар"
+
+msgid "article.metadata"
+msgstr "Метадеректер"
+
+msgid "article.journalSection"
+msgstr "Журнал бөлімі"
+
+msgid "article.file"
+msgstr "Файл"
+
+msgid "article.suppFile"
+msgstr "Қосымша файл"
+
+msgid "article.suppFiles"
+msgstr "Қосымша файлдар"
+
+msgid "article.suppFilesAbbrev"
+msgstr "Қосымша файлдар"
+
+msgid "article.discipline"
+msgstr "Академиялық пәндер және пәндердің бөлімдері"
+
+msgid "article.subject"
+msgstr "Кілтті сөздер"
+
+msgid "article.coverage"
+msgstr "Ауқым"
+
+msgid "article.type"
+msgstr "Түрі, әдісі немесе тәсілі"
+
+msgid "article.language"
+msgstr "Тіл"
+
+msgid "article.sectionEditor"
+msgstr "РР"
+
+msgid "article.commentsToEditor"
+msgstr "Автордың пікірі"
+
+msgid "article.submission"
+msgstr "Материал"
+
+msgid "article.submissions"
+msgstr "Материалдар"
+
+msgid "article.details"
+msgstr "Толығырақ"
+
+msgid "article.abstract"
+msgstr "Аңдатпа"
+
+msgid "article.coverPage.altText"
+msgstr "Мұқабадағы сурет"
+
+msgid "article.accessLogoOpen.altText"
+msgstr "Ашық кіру"
+
+msgid "article.accessLogoRestricted.altText"
+msgstr "Шектеулі кіру"
+
+msgid "article.comments.sectionDefault"
+msgstr "Әдепкі параметрлер"
+
+msgid "article.comments.disable"
+msgstr "Өшіру"
+
+msgid "article.comments.enable"
+msgstr "Қосу"
+
+msgid "article.fontSize"
+msgstr "Қаріп өлшемі"
+
+msgid "article.fontSize.small.altText"
+msgstr "Ұсақ"
+
+msgid "article.fontSize.medium.altText"
+msgstr "Орташа"
+
+msgid "article.fontSize.large.altText"
+msgstr "Ірі"
+
+msgid "article.return"
+msgstr "Мақалаға толығырақ оралу"
+
+msgid "submission.submissionEditing"
+msgstr "Жіберілген Материалды өңдеу"
+
+msgid "submission.changeSection"
+msgstr "Өзгерту"
+
+msgid "submission.sent"
+msgstr "Жіберілді"
+
+msgid "submission.editorDecision"
+msgstr "Редактордың шешімі"
+
+msgid "submission.round"
+msgstr "Кезең &nbsp;{$round}"
+
+msgid "submission.editorReview"
+msgstr "Редактордың пікірі"
+
+msgid "submission.notifyAuthor"
+msgstr "Авторға хабарлау"
+
+msgid "submission.notifyEditor"
+msgstr "Редакторға хабарлау"
+
+msgid "submission.editorAuthorRecord"
+msgstr "Хат жазысуы \" Редактор / Автор \""
+
+msgid "submission.reviewersVersion"
+msgstr "Рецензенттің ескертулері бар файл нұсқасы"
+
+msgid "submission.postReviewVersion"
+msgstr "Рецензиялаудан кейінгі файл нұсқасы"
+
+msgid "submission.editorVersion"
+msgstr "Редактор нұсқасы"
+
+msgid "submission.authorsRevisedVersion"
+msgstr "Автор түзеткен файлдың нұсқасы"
+
+msgid "submission.authorVersion"
+msgstr "Автордың нұсқасы"
+
+msgid "submission.copyediting"
+msgstr "Әдеби редакциялау"
+
+msgid "submission.copyedit"
+msgstr "Әдеби.Ред."
+
+msgid "submission.proofreading"
+msgstr "Түзету"
+
+msgid "submission.scheduling"
+msgstr "Жоспарлау"
+
+msgid "submission.scheduledIn"
+msgstr "Шығарылымда «{$issueName}» жариялауға жоспарланған ."
+
+msgid "submission.scheduledIn.tba"
+msgstr "Кейінірек тағайындалады"
+
+msgid "submissions.sec"
+msgstr "Бөлім"
+
+msgid "submissions.step1"
+msgstr "Қадам 1"
+
+msgid "submissions.step3"
+msgstr "Қадам 3"
+
+msgid "submissions.queuedReview"
+msgstr "Рецензияда"
+
+msgid "submissions.scheduled"
+msgstr "Жоспарланған"
+
+msgid "submissions.published"
+msgstr "Жарияланған"
+
+msgid "submissions.initial"
+msgstr "Бастапқы"
+
+msgid "submissions.proofread"
+msgstr "Түзету"
+
+msgid "submissions.initialProof"
+msgstr "Бастапқы түзету"
+
+msgid "submissions.postAuthor"
+msgstr "Автордан соң"
+
+msgid "submissions.reviewRound"
+msgstr "Рецензия кезеңдері"
+
+msgid "submissions.proof"
+msgstr "Түз."
+
+msgid "submissions.editorDecision"
+msgstr "Редактордың шешімі"
+
+msgid "submissions.editorRuling"
+msgstr "Правила редактора"
+
+msgid "submission.eventLog"
+msgstr "Іс-әрекеттер журналы"
+
+msgid "submissions.copyeditComplete"
+msgstr "Әдеби редакциялаудан өтті"
+
+msgid "submissions.layoutComplete"
+msgstr "Қырлаудан өтті"
+
+msgid "submissions.proofreadingComplete"
+msgstr "Түзетуден өтті"
+
+msgid "journal.currentIssue"
+msgstr "Ағымдағы шығарылым"
+
+msgid "journal.journals"
+msgstr "Журналдар"
+
+msgid "journal.path"
+msgstr "Жолы"
+
+msgid "context.context"
+msgstr "Журнал"
+
+msgid "journal.issn"
+msgstr "ISSN"
+
+msgid "journal.viewAllIssues"
+msgstr "Барлық шығарылымдарды көрсету"
+
+msgid "user.noRoles.selectUsersWithoutRoles"
+msgstr "Осы журналда тағайындалған рөлсіз пайдаланушыларды қосу."
+
+msgid "user.profile.profileImage"
+msgstr "Профиль бейнесі"
+
+msgid "user.showAllJournals"
+msgstr "Журналдарды көрсету"
+
+msgid "user.registerForOtherJournals"
+msgstr "Басқа журналдар үшін тіркеу"
+
+msgid "user.reviewerPrompt"
+msgstr "Осы журнал үшін материалдарды рецензиялағыңыз келе ме?"
+
+msgid "user.reviewerPrompt.userGroup"
+msgstr "Иә, \"{$userGroup}\" рөлін сұрау."
+
+msgid "user.reviewerPrompt.optin"
+msgstr ""
+"Иә, мен осы журналға арналған материалдарды рецензиялауға өтініш білдіргім "
+"келеді."
+
+msgid "user.register.contextsPrompt"
+msgstr "Осы сайтта қандай журналдарда тіркелгіңіз келеді?"
+
+msgid "user.register.otherContextRoles"
+msgstr "Келесі рөлдерді сұрау."
+
+msgid "user.register.noContextReviewerInterests"
+msgstr ""
+"Егер сіз қандай да бір журналда рецензент рөлін сұрасаңыз, рецензент ретінде "
+"Сізді қызықтыратын тақырыптарды енгізіңіз ."
+
+msgid "user.myJournals"
+msgstr "Менің журналдарым"
+
+msgid "user.manageMySubscriptions"
+msgstr "Менің жазылымымды басқару"
+
+msgid "user.noRoles.chooseJournal"
+msgstr ""
+"Сіздің есептік жазбаңыз қазір ешқандай журналмен байланысты емес. Журналды "
+"таңдаңыз өтінеміз:"
+
+msgid "user.noRoles.noRolesForJournal"
+msgstr ""
+"Сіздің есептік жазбаңызда қазір бұл журналда ешқандай рөл жоқ. Төменде "
+"ұсынылған әрекеттердің бірін таңдаңыз:"
+
+msgid "user.noRoles.submitArticle"
+msgstr "Ұсыныс жіберу"
+
+msgid "user.noRoles.submitArticleRegClosed"
+msgstr "Мақаланы жіберу: қазір авторларды тіркеу жабық."
+
+msgid "user.noRoles.regReviewer"
+msgstr "Рецензент ретінде тіркелу"
+
+msgid "user.noRoles.regReviewerClosed"
+msgstr "Рецензент ретінде тіркелу: рецензенттерді тіркеу қазір жабық."
+
+msgid "user.role.manager"
+msgstr "Журнал басқарушысы"
+
+msgid "user.role.subEditor"
+msgstr "Бөлім редакторы"
+
+msgid "user.role.subscriptionManager"
+msgstr "Жазылу менеджері"
+
+msgid "user.role.managers"
+msgstr "Журнал басқарушылары"
+
+msgid "user.role.subEditors"
+msgstr "Бөлім редакторлары"
+
+msgid "user.role.subscriptionManagers"
+msgstr "Жазылу менеджерлері"
+
+msgid "user.role.journalAssistant"
+msgstr "Журнал ассистенті"
+
+msgid "user.role.journalAssistants"
+msgstr "Журнал ассистенттері"
+
+msgid "issue.issue"
+msgstr "Шығарылым"
+
+msgid "issue.issues"
+msgstr "Шығарылымдар"
+
+msgid "issue.title"
+msgstr "Атауы"
+
+msgid "issue.volume"
+msgstr "Том"
+
+msgid "issue.number"
+msgstr "Номер"
+
+msgid "issue.vol"
+msgstr "Том"
+
+msgid "issue.no"
+msgstr "№"
+
+msgid "issue.year"
+msgstr "Жыл"
+
+msgid "issue.noIssues"
+msgstr "Шығарылым жоқ"
+
+msgid "issue.toc"
+msgstr "Мазмұны"
+
+msgid "issue.abstract"
+msgstr "Аңдатпа"
+
+msgid "issue.coverPage.altText"
+msgstr "Сырт бейнесі"
+
+msgid "issue.fullIssue"
+msgstr "Тұтас шығарылым"
+
+msgid "issue.nonpdf.title"
+msgstr "Шығарылымды жүктеу"
+
+msgid "issue.viewIssue"
+msgstr "Шығарылымды көру"
+
+msgid "issue.return"
+msgstr "Шығарылым туралы толығырақ оралу"
+
+msgid "subscriptionTypes.currency"
+msgstr "Валюта"
+
+msgid "subscriptionTypes.year"
+msgstr "Жыл"
+
+msgid "subscriptionTypes.years"
+msgstr "Жылдар"
+
+msgid "subscriptionTypes.month"
+msgstr "Ай"
+
+msgid "subscriptionTypes.months"
+msgstr "Айлар"
+
+msgid "subscriptionTypes.nonExpiring"
+msgstr "Мерзімсіз"
+
+msgid "subscriptionTypes.format"
+msgstr "Формат"
+
+msgid "subscriptionTypes.format.online"
+msgstr "Электронды"
+
+msgid "subscriptionTypes.format.print"
+msgstr "Баспалы"
+
+msgid "subscriptionTypes.format.printOnline"
+msgstr "Баспалы және электронды"
+
+msgid "subscriptions.inactive"
+msgstr "Белсенді емес"
+
+msgid "subscriptions.status"
+msgstr "Мәртебе"
+
+msgid "subscriptions.status.active"
+msgstr "Белсенді"
+
+msgid "subscriptions.status.needsInformation"
+msgstr "Ақпарат қажет"
+
+msgid "subscriptions.status.needsApproval"
+msgstr "Растау талап етіледі"
+
+msgid "subscriptions.status.awaitingManualPayment"
+msgstr "Төлемді қолмен күту"
+
+msgid "subscriptions.status.awaitingOnlinePayment"
+msgstr "Онлайн төлемді күту"
+
+msgid "subscriptions.status.noSubscription"
+msgstr "Сізде белсенді жазылым жоқ."
+
+msgid "subscriptions.status.other"
+msgstr "Басқа, ескертпелерді қараңыз"
+
+msgid "subscriptions.individualDescription"
+msgstr ""
+"Жеке жазылымдар жазылу бойынша берілетін контентке кіру үшін сайтқа кіруді "
+"талап етеді."
+
+msgid "subscriptions.institutionalDescription"
+msgstr ""
+"Ұйымға жазылу пайдаланушылардың сайтқа кіруін талап етпейді. Жазылым бойынша "
+"берілетін контентке кіру үшін пайдаланушы домені және/немесе IP мекенжайы "
+"пайдаланылады ."
+
+msgid "subscriptions.institutionalOnlinePaymentDescription"
+msgstr ""
+"<strong>Примечание:</strong> Сайт арқылы сатып алынатын ұйымға жазылу "
+"белсенділігі үшін, Домен мен IP мекенжай ауқымын растауды талап етеді."
+
+
+msgid "submission.event.general.defaultEvent"
+msgstr "Жөнелту оқиғасы"
+
+msgid "submission.event.submissionSubmitted"
+msgstr "Мақала жіберілді"
+
+msgid "submission.event.general.issueScheduled"
+msgstr "Мақала жоспарланған номерге жіберілді"
+
+msgid "submission.event.general.issueAssigned"
+msgstr "Мақала шығарылымға тағайындалды"
+
+msgid "submission.event.general.articlePublished"
+msgstr "Мақала жарияланды"
+
+msgid "submission.event.author.authorRevision"
+msgstr "Автор түзетілген нұсқасын жіберді"
+
+msgid "submission.event.general.authorRevision"
+msgstr "Авторлық өңдеу файлы жаңартылды"
+
+msgid "submission.event.editor.editorAssigned"
+msgstr "Материал үшін редактор тағайындалды"
+
+msgid "submission.event.editor.editorUnassigned"
+msgstr "Материал редакторы кері қайтарылды"
+
+msgid "submission.event.editor.editorDecision"
+msgstr "Редактор шешімі жіберілді"
+
+msgid "submission.event.editor.editorFile"
+msgstr "Редактор файлы жаңартылды"
+
+msgid "submission.event.editor.submissionArchived"
+msgstr "Материал мұрағатқа жіберілді"
+
+msgid "submission.event.editor.submissionRestored"
+msgstr "Материал мұрағаттан қалпына келтірілді"
+
+msgid "submission.event.copyedit.copyeditorAssigned"
+msgstr "Материал үшін әдеби редактор тағайындалды"
+
+msgid "submission.event.copyedit.copyeditorUnassigned"
+msgstr "Материал үшін әдеби редактор кері қайтарылды"
+
+msgid "submission.event.copyedit.copyeditInitiated"
+msgstr "Әдеби өңдеу басталды"
+
+msgid "submission.event.copyedit.copyeditRevision"
+msgstr "Әдеби редактор түзеткіші бар Файл жаңартылды"
+
+msgid "submission.event.copyedit.copyeditInitialCompleted"
+msgstr "Бастапқы Әдеби өңдеу аяқталды"
+
+msgid "submission.event.copyedit.copyeditFinalCompleted"
+msgstr "Соңғы әдеби өңдеу аяқталды"
+
+msgid "submission.event.copyedit.copyeditSetFile"
+msgstr "Әдеби түзеткіш Файл жаңартылды"
+
+msgid "submission.event.proofread.proofreaderAssigned"
+msgstr "Материал үшін түзетуші тағайындалды."
+
+msgid "submission.event.proofread.proofreaderUnassigned"
+msgstr "Материал үшін түзетуші кері қайтарылды ."
+
+msgid "submission.event.proofread.proofreadInitiated"
+msgstr "Түзету басталды"
+
+msgid "submission.event.proofread.proofreadRevision"
+msgstr "Түзеткіш файлы жаңартылды"
+
+msgid "submission.event.proofread.proofreadCompleted"
+msgstr "Түзету аяқталды"
+
+msgid "submission.event.layout.layoutEditorAssigned"
+msgstr "Материалға арналған қырлаушы тағайындалды"
+
+msgid "submission.event.layout.layoutEditorUnassigned"
+msgstr "Материалға арналған қырлаушы кері қайтарылды"
+
+msgid "submission.event.layout.layoutInitiated"
+msgstr "Қырлау басталды"
+
+msgid "submission.event.layout.layoutGalleyCreated"
+msgstr "Қырлау жаңартылды"
+
+msgid "submission.event.layout.layoutComplete"
+msgstr "Қырлау аяқталды"
+
+
+msgid "reader.subscribersOnly"
+msgstr "Тек жазылушылар үшін"
+
+msgid "reader.subscriptionRequiredLoginText"
+msgstr ""
+"Бұл материалға кіру үшін жазылу керек. Жазылымның бар-жоғын тексеру үшін "
+"журнал сайтына тіркелгіңізбен кіріңіз."
+
+msgid "reader.openAccess"
+msgstr "Ашық кіру"
+
+msgid "reader.subscriptionAccess"
+msgstr "Жазылу талап етеді"
+
+msgid "reader.subscriptionOrFeeAccess"
+msgstr "Жазылу немесе төлем талап етеді"
+
+msgid "reader.purchasePrice"
+msgstr "({$price} {$currency})"
+
+msgid "comments.commentsOnArticle"
+msgstr "Осы мақалаға пікірлер"
+
+msgid "comments.authenticated"
+msgstr "(<a href=\"{$publicProfileUrl}\" target=\"_parent\">{$userName}</a>)"
+
+
+msgid "search.results.orderBy"
+msgstr "Нәтижелерді сұрыптау"
+
+msgid "search.results.orderBy.article"
+msgstr "атаулар бойынша"
+
+msgid "search.results.orderBy.author"
+msgstr "авторға"
+
+msgid "search.results.orderBy.date"
+msgstr "жариялау күні"
+
+msgid "search.results.orderBy.issue"
+msgstr "шығарылымға"
+
+msgid "search.results.orderBy.journal"
+msgstr "журнал атауына"
+
+msgid "search.results.orderBy.popularityAll"
+msgstr "танымалдық (барлық уақытта)"
+
+msgid "search.results.orderBy.popularityMonth"
+msgstr "танымалдық (соңғы айда)"
+
+msgid "search.results.orderBy.relevance"
+msgstr "Өзектілігі"
+
+msgid "search.results.orderDir.asc"
+msgstr "Өсуі бойынша"
+
+msgid "search.results.orderDir.desc"
+msgstr "Кему бойынша"
+
+msgid "search.results.similarDocuments"
+msgstr "Ұқсас документтер"
+
+msgid "admin.auth.defaultSourceDescription"
+msgstr ""
+"<p> OJS-дан өзгеше әдепкі аутентификация көзін көрсету келесі әсерге ие:</p>"
+"\n"
+"<ul>\n"
+"\t<li>Егер Пайдаланушы осы сайтта аутентификация көзінде  бар пайдаланушы "
+"атымен жаңа тіркелгіні тіркеуге тырысса (бірақ OJS деректер базасында емес), "
+"тіркеу әрекеті тек аутентификация көзінде осы тіркелгіге сәйкес құпия сөзді "
+"енгізген жағдайда ғана рұқсат етіледі.</li>\n"
+"</ul>"
+
+
+msgid "admin.overwriteConfigFileInstructions"
+msgstr ""
+"<h4> НАЗАР АУДАРЫҢЫЗДАР!</h4>\n"
+"<p> Жүйе конфигурация файлын автоматты түрде қайта жаза алмайды. Өзгертілген "
+"конфигурация параметрлерін қолдану үшін<tt>config.inc.php</tt>  ашу керек. "
+"тиісті мәтін редакторында және оның мазмұнын төменде мәтін өрісінің "
+"мазмұнымен ауыстырыңыз.</p>"
+
+msgid "subscriptionManager.subscriptionManagement"
+msgstr "Жазылымдарды басқару"
+
+msgid "subscriptionManager.individualSubscriptions"
+msgstr "Жеке жазылымдар"
+
+msgid "subscriptionManager.institutionalSubscriptions"
+msgstr "Ұйымға жазылым"
+
+msgid "subscriptionManager.subscriptionTypes"
+msgstr "Жазылым түрлері"
+
+
+msgid "plugins.categories.viewableFiles"
+msgstr "Мақалалар қырларының модульдері"
+
+msgid "plugins.categories.viewableFiles.description"
+msgstr ""
+"Мақала қырларының модульдері әр түрлі үлгідегі құжаттардың мақала қырлары "
+"түрінде көрсетілуін қолдайды ."
+
+msgid "plugins.categories.auth.description"
+msgstr ""
+"Авторизациялау модульдері Open Journal Systems пайдаланушыларды LDAP-сервері "
+"сияқты басқа жүйелерге аутентификациялау міндетін табыстауға мүмкіндік "
+"береді \n"
+"."
+
+msgid "plugins.categories.generic.description"
+msgstr ""
+"Жалпы модульдер Open Journal Systems мүмкіндіктерін әртүрлі тәсілдермен "
+"кеңейтуде, басқа санаттағы ұстанбайтын модульдермен пайдаланылады."
+
+msgid "manager.setup.lockssDescription"
+msgstr ""
+"Open Journal Systems журнал мазмұны үшін қауіпсіз және тұрақты мұрағатқа "
+"сенімді болу үшін LOCKSS (Lots of Copies Keep Stuff Safe) жүйесін қолдайды. "
+"Егер сіздің журналыңыз LOCKSS жаһандық желісіне мазмұнды мұрағаттау үшін "
+"қабылданса немесе PKP PN басқада LOCKSS жеке желісіне қатысса, мұнда қажетті "
+"параметрлерді қосыңыз:"
+
+msgid "manager.setup.clockssDescription"
+msgstr ""
+"Open Journal Systems сондай-ақ журнал үшін қауіпсіз және тұрақты мұрағатқа "
+"сенімді болу үшін CLOCKSS (Controlled Lots of Copies Keep Stuff Safe) "
+"жүйесін қолдайды. Егер журналыңыз CLOCKSS Мұрағатымен келісім-шартқа қол "
+"қойса, мұнда қажетті параметрлерді қосыңыз:"
+
+msgid "manager.setup.porticoDescription"
+msgstr ""
+"Portico-бұл сандық басылымдарды, соның ішінде электрондық журналдарды, "
+"кітаптарды және цифрланған Тарихи коллекцияларды сақтауға арналған "
+"коммерциялық емес қызмет. Егер журнал Portico келісім-шартына қол қойса, "
+"мұнда қажетті параметрлерді қосыңыз :"
+
+msgid "manager.setup.authorCopyrightNotice.sample"
+msgstr ""
+"<h3> Creative Commons лицензиясы негізінде авторлық құқықтарды беру туралы "
+"хабарламалардың мысалдары </h3>\n"
+"<h4>1. Ашық қолжетімділікті ұсынатын Журналдарға арналған ұсынылған саясат  "
+"</h4>\n"
+"Осы журналда жарияланатын авторлар келесі шарттармен келіседі:\n"
+"<ol type=\"a\">\n"
+"\t<li> Авторлар жұмысқа авторлық құқығын сақтайды және журналға бірінші "
+"жарияланым құқығын жұмыспен бірге береді, сонымен бір мезгілде оны шарт "
+"бойынша лицензиялайды. <a target=\"_new\" href=\"http://creativecommons."
+"org/licenses/by/3.0/\"> Creative Commons Attribution</a> лицензиялары, ол "
+"осы жұмыстың авторлығын міндетті түрде көрсете отырып және осы журналдағы "
+"түпнұсқа басылымға сілтеме жасай отырып, осы жұмысты басқаларға таратуға "
+"мүмкіндік береді </li>\n"
+"\t<li> Авторлар осы журналмен жарияланған жұмыстың нұсқаларын ерекше "
+"таратуға (мысалы, оны университет қоймасына орналастыру немесе оны кітапқа "
+"жариялау), осы журналдағы түпнұсқа басылымға сілтеме жасай отырып, жеке, "
+"қосымша келісім-шарт жасау құқығын сақтайды. </li>\n"
+"\t<li>Авторларға олардың жұмысын Интернет желісінде (мысалы, университеттік "
+"қоймада немесе олардың дербес веб-сайтында) осы журналды қарау барысында "
+"және алдында орналастыруға рұқсат етіледі, өйткені бұл өнімді талқылауға, "
+"сондай-ақ осы жарияланған жұмысқа сілтемелердің көп санына әкелуі мүмкін "
+"(Қараңыз <a target=\"_new\" href=\"http://opcit.eprints.org/oacitation-"
+"biblio.html\">The Effect of Open Access</a>).</li>\n"
+"</ol>\n"
+"\n"
+"<h4>2. Кейінге қалдырылған ашық қол жеткізуді ұсынатын Журналдарға арналған "
+"ұсынылған саясат  </h4>\n"
+"Осы журналда жарияланатын авторлар келесі шарттармен келіседі:\n"
+"<ol type=\"a\">\n"
+"\t<li> Авторлар өз жұмысына авторлық құқықты сақтайды және алғашқы "
+"жарияланым құқығын жұмыспен бірге журналға береді, [УАҚЫТ КЕЗЕҢІН КӨРСЕТІҢІЗ]"
+" шарттары бойынша жарияланғаннан кейін оны лицензиялай отырып.  \n"
+"<a target=\"_new\" href=\"http://creativecommons.org/licenses/by/3.0/\"> "
+"Creative Commons Attribution</a> лицензиялары, ол осы жұмыстың авторлығын "
+"міндетті түрде көрсете отырып және осы журналдағы түпнұсқа басылымға сілтеме "
+"жасай отырып, осы жұмысты басқаларға таратуға мүмкіндік\n"
+" береді.</li>\n"
+"\t<li>Авторлар осы журналмен жарияланған жұмыстың нұсқаларын (мысалы, оны "
+"университет қоймасына орналастыру немесе оны кітапқа жариялау), осы "
+"журналдағы түпнұсқа басылымға сілтеме жасай отырып, жеке, қосымша келісім-"
+"шарт жасау құқығын сақтайды .</li>\n"
+"\t<li>Авторларға олардың жұмысын Интернет желісінде (мысалы, университеттік "
+"қоймада немесе олардың дербес веб-сайтында) осы журналды қарау барысында "
+"және алдында орналастыруға рұқсат етіледі, өйткені бұл өнімді талқылауға, "
+"сондай-ақ осы жарияланған жұмысқа сілтемелердің көп санына әкелуі мүмкін "
+"(Қараңыз <a target=\"_new\" href=\"http://opcit.eprints.org/oacitation-"
+"biblio.html\">The Effect of Open Access</a>).</li>\n"
+"</ol>"
+
+
+msgid "manager.setup.basicEditorialStepsDescription"
+msgstr ""
+"Қадамдар: Материалдар кезегі &gt; материалды рецензиялау &gt; Материалды "
+"өңдеу &gt; шығарылым мазмұны  .<br /><br />\n"
+"Редакциялық процестің осы аспектілерін басқару үшін модельді таңдаңыз. "
+"(Шығарушы редактор мен бөлім редакторларын анықтау үшін \"журналды басқару\" "
+"бөлімінің «Редакторлар»  өтіңіз.)"
+
+msgid "manager.setup.referenceLinkingDescription"
+msgstr ""
+"<p> Оқырмандарға автор сілтеме жасайтын жұмыстардың онлайн-нұсқаларын табуға "
+"мүмкіндік беру үшін келесі мүмкіндіктер бар.</p>\n"
+"\n"
+"<ol>\n"
+"\t<li><strong>Оқырман құралын қосу</strong><p>журнал басқарушысы жарияланған "
+"материалдарға сәйкес келетін оқырман құралдарына \"сілтемелерді іздеу\" "
+"қосуға болады. Бұл оқырмандарға автор сілтеме жасайтын дереккөздің атауын "
+"енгізуге, содан кейін оны алдын ала таңдалған ғылыми жұмыстардың деректер "
+"базасы бойынша іздеуге мүмкіндік береді .</p></li>\n"
+"\t<li><strong> Әдебиеттер тізіміне гиперсілтемелерді енгізу< / strong><p> "
+"Қырлаушы келесі нұсқауларды қолдана отырып, интернетте табылуы мүмкін "
+"көздерге гиперсілтемені қоса алады (нұсқаулар редакциялануы мүмкін) \n"
+".</p></li>\n"
+"</ol>"
+
+
+msgid "manager.people.confirmDisable"
+msgstr ""
+"Бұл пайдаланушыны өшіру керек пе? Бұл пайдаланушы тіркелгісімен жүйеге "
+"кіруге тыйым салады.\n"
+"\n"
+"Сондай-ақ, (қажет болса) пайдаланушыға оның тіркелгісін өшіру себебін "
+"көрсете аласыз."
+
+msgid "manager.people.noAdministrativeRights"
+msgstr ""
+"Кешіріңіз, сізде осы пайдаланушының жазбасын басқару үшін жеткілікті "
+"әкімшілік құқық жоқ. Мүмкін себептер:\n"
+"\t\t<ul>\n"
+"\t\t\t<li> Бұл пайдаланушы сайт әкімшісі </li>\n"
+"                      <li> Бұл пайдаланушы сіз басқара алмайтын журналдарда "
+"белсенді </li>\n"
+"\t\t</ul>\n"
+"\tБұл міндетті сайт әкімшісі орындауы тиіс."
+
+msgid "editor.submissionReview.notes"
+msgstr ""
+"<ol>\n"
+"\t<li> Таңдалған жолдар редактордың белгілі бір әрекеттерді орындауы "
+"керектігін білдіреді, бұл ретте келесі белгілер қолданылады: \n"
+"\t\t\t<li class=\"highlightReviewerNotNotified\"> Рецензент тағайындалды, "
+"бірақ электрондық поштамен хабарланбаған  </li>\n"
+"\t\t\t<li class=\"highlightNoDecision\"> Барлық рецензенттер пікірлері бар "
+"өз рецензияларын жіберді, бірақ шешім қабылданған жоқ </li>\n"
+"\t\t\t<li class=\"highlightRevisedCopyUploaded\"> Автор сайтқа материалдың "
+"түзетілген нұсқасын жүктеді </li>\n"
+"\t\t\t<li class=\"highlightReviewerConfirmationOverdue\"> Рецензент "
+"көрсетілген мерзімге дейін рецензиялауға қатысқанын растамады </li>\n"
+"\t\t\t<li class=\"highlightReviewerCompletionOverdue\"> Рецензент "
+"көрсетілген мерзімге дейін рецензия бермеген </li>\n"
+"\t\t</ul>\n"
+"\t</li>\n"
+"\t<li>Орындау мерзімі\" жолы рецензент рецензиялауға қатысуға келіскенде "
+"толтырылады; ол рецензиялауға берілген мерзім аяқталғанға дейінгі апта санын "
+"немесе (минус белгісімен) рецензияны ұсыну мерзімі кешіктірілген апта санын "
+"көрсетеді.</li>\n"
+"</ol>"
+
+msgid "editor.submissionEditing.notes"
+msgstr ""
+"<ol>\n"
+"\t<li> Таңдалған жолдар редактор белгілі бір әрекеттерді орындауы "
+"керекболғанда, бұл ретте келесі белгілер қолданылады:</li>\n"
+"\t\t<ul>\n"
+"\t\t\t<li class=\"highlightCopyediting\"> Әдеби редакциялау кезеңінде әрекет "
+"қажет </li>\n"
+"\t\t\t<li class=\"highlightLayoutEditing\"> Қырлау сатысында әрекет қажет "
+"</li>\n"
+"\t\t\t<li class=\"higlightProofreading\"> Түзету сатысында әрекет қажет </li>"
+"\n"
+"\t\t</ul>\n"
+"\t</li>\n"
+"</ol>"
+
+
+msgid "sectionEditor.activeEditorialAssignments"
+msgstr "Белсенді редакциялық тапсырмалар"
+
+msgid "sectionEditor.completedEditorialAssignments"
+msgstr "Орындалған редакциялық тапсырмалар"
+
+msgid "sectionEditor.noneAssigned"
+msgstr "Тағайындалған материалдар жоқ."
+
+msgid "sectionEditor.copyedit.confirmRenotify"
+msgstr "Бұл әдеби редактордың ескертуі тапсырманы басынан бастап қайтадан іске "
+"қосуға әкеледі. Сіз мұны қалайсыз ба?"
+
+msgid "sectionEditor.author.confirmRenotify"
+msgstr "Бұл автордың ескертуі тапсырманы басынан бастап қайтадан іске қосуға әкеледі."
+" Сіз мұны қалайсыз ба?"
+
+msgid "sectionEditor.layout.confirmRenotify"
+msgstr "Бұл қырлаушының ескертуі тапсырманы басынан бастап қайтадан іске қосуға "
+"әкеледі. Сіз мұны қалайсыз ба?"
+
+msgid "sectionEditor.proofreader.confirmRenotify"
+msgstr "ұл түзеткіштің ескертуі тапсырманы басынан бастап қайтадан іске қосуға "
+"әкеледі. Сіз мұны қалайсыз ба?"
+
+msgid "sectionEditor.regrets.breadcrumb"
+msgstr "Бас тарту"
+
+msgid "sectionEditor.regrets.title"
+msgstr "#{$submissionId} Рецензенттердің бас тартуы, күшін жою және алдыңғы кезеңдер"
+
+msgid "sectionEditor.regrets"
+msgstr "Бас тарту"
+
+msgid "sectionEditor.regrets.link"
+msgstr "Бас тарту, күшін жою және алдыңғы кезеңдерді қайта қарау"
+
+msgid "sectionEditor.regrets.reviewRound"
+msgstr "Рецензиялау, кезең {$round}"
+
+msgid "sectionEditor.regrets.decisionRound"
+msgstr "Решение редактора, раунд {$round}"
+
+msgid "sectionEditor.regrets.regretsAndCancels"
+msgstr "Рецензенттердің бас тартуы және күшін жою"
+
+msgid "sectionEditor.regrets.regret"
+msgstr "Бас тарту"
+
+msgid "sectionEditor.regrets.result"
+msgstr "Нәтиже"
+
+msgid "sectionEditor.review.enrollReviewer"
+msgstr "Бар пайдаланушыны рецензентпен тағайындау"
+
+msgid "sectionEditor.review.createReviewer"
+msgstr "Жаңа рецензент жасау"
+
+
+msgid "layoutEditor.activeEditorialAssignments"
+msgstr "Белсенді редакциялық тапсырмалар"
+
+msgid "layoutEditor.completedEditorialAssignments"
+msgstr "Орындалған редакциялық тапсырмалар"
+
+msgid "layoutEditor.noActiveAssignments"
+msgstr "Белсенді редакциялық тапсырмалар жоқ."
+
+msgid "layoutEditor.layoutEditingAssignments"
+msgstr "Қырлауға тапсырмалар"
+
+msgid "layoutEditor.galley.uploadGalleyFormat"
+msgstr "Бет пішімін жүктеу"
+
+msgid "layoutEditor.galley.replaceGalley"
+msgstr "Файлды ауыстыру"
+
+msgid "layoutEditor.galley.uploadSuppFile"
+msgstr "Қосымша файлды жүктеу"
+
+msgid "submission.layout.imageInvalid"
+msgstr "Сурет пішімі жарамсыз. Рұқсат етілген пішімдер: .gif, .jpg, и .png."
+
+msgid "submission.layout.galley.remotelyHostedContent"
+msgstr "Бұл қырлау жеке веб-сайтта қолжетімді болады."
+
+msgid "submission.layout.galley.remoteURL"
+msgstr "Сыртқы ресурста орналасқан URL контенті."
+
+
+msgid "reviewer.pendingReviews"
+msgstr "Рецензияны күтетін мақалалар"
+
+msgid "reviewer.completedReviews"
+msgstr "Аяқталды"
+
+msgid "reviewer.averageQuality"
+msgstr "Рейтинг"
+
+
+msgid "reviewer.article.fileToBeReviewed"
+msgstr "Рецензияланатын Файл"
+
+msgid "reviewer.article.notifyTheEditor"
+msgstr "Редакторға хабарлау"
+
+msgid "reviewer.article.canDoReview"
+msgstr "Пікір беруге келісемін"
+
+msgid "reviewer.article.cannotDoReview"
+msgstr "Рецензиялау бас тартамын"
+
+msgid "reviewer.article.restrictedFileAccess"
+msgstr "Қолжазба рецензент рецензиялауға келіскенде ғана қолжетімді болады"
+
+msgid "reviewer.article.submissionEditor"
+msgstr "Материал редакторы"
+
+msgid "reviewer.article.reviewerCommentsDescription"
+msgstr "Рецензенттің түсініктемесін енгізіңіз немесе осында қойыңыз"
+
+msgid "reviewer.article.editorToEnter"
+msgstr "Енгізу редакторы"
+
+msgid "reviewer.article.sendReminder"
+msgstr "Ескертуді жіберу"
+
+msgid "reviewer.article.automatic"
+msgstr "(Авто)"
+
+msgid "reviewer.article.recommendation"
+msgstr "Ұсыным"
+
+msgid "reviewer.article.submitReview"
+msgstr "Рецензияны редакторға жіберу"
+
+msgid "reviewer.article.reviewerComments"
+msgstr "Пікірлер"
+
+msgid "reviewer.article.uploadedFile"
+msgstr "Жүктелген файлдар"
+
+msgid "reviewer.article.reviewersAnnotatedVersion"
+msgstr "Рецензент жүктеген нұсқа"
+
+msgid "reviewer.article.reviewersAnnotatedVersionDescription"
+msgstr ""
+"( Егер сіз редактордың файлына ескертпелеріңізді қосқыңыз келсе, файлды "
+"компьютерге сақтаңыз және шолуды/жүктеуді пайдаланыңыз .)"
+
+msgid "reviewer.article.schedule.request"
+msgstr "Редактор сұранысы"
+
+msgid "reviewer.article.schedule.response"
+msgstr "Сіздің жауап"
+
+msgid "reviewer.article.schedule.submitted"
+msgstr "Рецензия жіберілді"
+
+msgid "reviewer.article.schedule.due"
+msgstr "Рецензия жіберу уақыты"
+
+msgid "reviewer.article.decision.accept"
+msgstr "Материалды қабылдау"
+
+msgid "reviewer.article.decision.pendingRevisions"
+msgstr "Пысықтау қажет"
+
+msgid "reviewer.article.decision.resubmitHere"
+msgstr "Рецензияға қайта жіберу"
+
+msgid "reviewer.article.decision.resubmitElsewhere"
+msgstr "Басқа жерге жіберу"
+
+msgid "reviewer.article.decision.decline"
+msgstr "Мақаланы қабылдамау"
+
+msgid "reviewer.article.decision.seeComments"
+msgstr "Пікірлерді қара"
+
+msgid "reviewer.article.schedule"
+msgstr "Кестесі"
+
+msgid "reviewer.article.submissionToBeReviewed"
+msgstr "Рецензияға арналған Материал"
+
+msgid "reviewer.article.reviewSchedule"
+msgstr "Расписание рецензиялау кестесі"
+
+msgid "reviewer.article.reviewSteps"
+msgstr "Рецензиялау қадамдары"
+
+msgid "reviewer.article.reviewerGuidelines"
+msgstr "Рецензенттерге арналған нұсқаулық"
+
+msgid "reviewer.article.reviewGuidelinesDescription"
+msgstr ""
+"Рецензенттерге арналған нұсқаулық рецензенттерді осы журналда жариялау үшін "
+"материалдың сәйкестік дәрежесін бағалау критерийлерімен таныстырады және "
+"тиімді де пайдалы рецензияны дайындау бойынша кез келген қосымша нұсқауларды "
+"қамтуы мүмкін. Рецензияны жазу кезінде рецензенттерде екі мәтін өрісі бар: "
+"біріншісі \"автор және редактор үшін\" және екіншісі \"редактор үшін\". "
+"Балама ретінде журналды басқарушы рецензия нысанын \"рецензияға арналған "
+"нысандар\"бөлімінде жасай алады. Осы жағдайлардың кез келгенінде редакторлар "
+"авторларға рецензиямен танысуға мүмкіндік береді."
+
+msgid "reviewer.article.notifyEditorA"
+msgstr "Материал редакторын хабардар ету ("
+
+msgid "reviewer.article.notifyEditorB"
+msgstr ") сіз пікір беруге келісетініңіз туралы ."
+
+msgid "reviewer.article.consultGuidelines"
+msgstr ""
+"Егер сіз рецензия беретін болып шешсеңіз, төмендегі рецензенттерге арналған "
+"нұсқаулықпен танысыңыз."
+
+msgid "reviewer.article.downloadSubmission"
+msgstr ""
+"Осы материалмен байланысты файлдарды жүктеу және көру үшін файл аттарын "
+"нұқыңыз (оларды экранда көрсету немесе басып шығару )."
+
+msgid "reviewer.article.enterCompetingInterests"
+msgstr ""
+"Осы зерттеуге қатысты мүдделер қақтығысының бар-жоғын көрсетіңіз  (қараңыз "
+"<a target=\"_new\" class=\"action\" href=\"{$competingInterestGuidelinesUrl}"
+"\"> Мүдделер қақтығысы туралы декларацияны толтыру жөніндегі Нұсқаулық </a>)."
+
+msgid "reviewer.competingInterests"
+msgstr "Мүдделер қақтығысы"
+
+msgid "reviewer.article.enterReviewA"
+msgstr "Осы мақалаға пікіріңізді енгізу (немесе қою) үшін белгішені басыңыз."
+
+msgid "reviewer.article.uploadFile"
+msgstr ""
+"Сонымен қатар, сіз кеңес беру үшін редактор және/немесе автор үшін файлдарды "
+"жүктеуге болады."
+
+msgid "reviewer.article.selectRecommendation"
+msgstr ""
+"Ұсынымды таңдап, редакциялау процесін аяқтау үшін рецензияны жіберіңіз. Сіз "
+"рецензияны енгізуіңіз немесе файлды ұсынысқа дейін жүктеуіңіз керек."
+
+msgid "reviewer.article.selectRecommendation.byEditor"
+msgstr "Рецензенттің ұсынымын қою немесе өзгерту."
+
+msgid "reviewer.article.mustSelectDecision"
+msgstr "Ұсыныс таңдалмаған. Жіберу үшін ұсынымды таңдауыңыз керек ."
+
+msgid "reviewer.article.confirmDecision"
+msgstr ""
+"Сіз шешіміңізді жазып болғаннан кейін, сіз осы рецензияға өзгерістер енгізе "
+"алмайсыз. Сіз жалғастырғыңыз келе ме?"
+
+
+msgid "copyeditor.article.fileToCopyedit"
+msgstr "Әдеби редакциялау үшін Файл"
+
+msgid "copyeditor.article.copyeditorFile"
+msgstr "Әдеби редактор файлы"
+
+msgid "copyeditor.article.copyeditorFinalFile"
+msgstr "Әдеби редактор файлы"
+
+
+msgid "proofreader.noProofreadingAssignments"
+msgstr "Түзеткішке тапсырмалар жоқ"
+
+
+msgid "author.submit.uploadInstructions"
+msgstr ""
+"<p> Осы журналға материалды жіберу үшін келесі қадамдарды орындаңыз:.</p>\n"
+"<ol>\n"
+"<li> Осы бетте \"шолу\" (немесе \"файлды таңдау\") басыңыз, содан кейін "
+"компьютеріңіздің қатты дискідегі файлды таңдау үшін диалогтық терезе ашылады."
+"</li>\n"
+"<li> Жібергіңіз келетін файлды тауып, оны таңдаңыз.</li>\n"
+"<li> Файлды \"терезесінде\", \" ашу \" түймешігін басыңыз — таңдалған "
+"файлдың аты осы бетке қосылады .</li>\n"
+"<li>Щелкните на «Загрузить на сервер» на этой странице — файл будет загружен "
+"с компьютера на веб-сайт журнала и переименован в соответствии с правилами "
+"журнала.</li>\n"
+"<li> Материал жүктелгеннен кейін, осы беттің төменгі жағында \"сақтау және "
+"жалғастыру\" басыңыз.</li>\n"
+"</ol>"
+
+
+msgid "submission.review.mustUploadFileForReview"
+msgstr ""
+"Сұрау салынған хат рецензентке арналған нұсқасы бар файл жүктелгенге дейін "
+"жіберілуі мүмкін емес."
+
+msgid "submission.copyedit.mustUploadFileForInitialCopyedit"
+msgstr ""
+"Сұрау салынған хат \"рецензиялау\" бетінде \"редактордың шешімі\" бөлімінде "
+"әдеби редакциялау үшін файл таңдалғанға дейін жіберілмейді»."
+
+msgid "submission.copyedit.mustUploadFileForCopyedit"
+msgstr ""
+"Сұрау хат әдеби өңдеу үшін файл жүктелгенге дейін жіберілуі мүмкін емес."
+
+msgid "submission.copyedit.initialCopyedit"
+msgstr "Бастапқы әдеби редакциялау"
+
+msgid "submission.copyedit.editorsCopyedit"
+msgstr "Редактордың әдеби редакциялауы"
+
+msgid "submission.copyedit.editorAuthorReview"
+msgstr "Автормен әдеби редакциялау"
+
+msgid "submission.copyedit.finalCopyedit"
+msgstr "Соңғы әдеби редакциялау"
+
+msgid "submission.copyedit.copyeditVersion"
+msgstr "Әдеби редакциялау нұсқасы"
+
+msgid "submission.copyedit.selectCopyeditor"
+msgstr "Әдеби редактор тағайындау"
+
+msgid "submission.copyedit.useFile"
+msgstr "Файлды пайдалану"
+
+msgid "submission.copyedit.copyeditComments"
+msgstr "Әдеби редакциялауға Пікірлер"
+
+msgid "submission.copyedit.instructions"
+msgstr "Әдеби редакциялау жөніндегі Нұсқаулық"
+
+msgid "submission.layout.noLayoutFile"
+msgstr ""
+"Жоқ (сұрау жібермес бұрын, соңғы нұсқасын әдеби редакциялаудан беттеу "
+"нұсқасы ретінде жүктеп алыңыз)"
+
+msgid "submission.layout.publicGalleyId"
+msgstr "Ашық қырлау идентификаторы"
+
+msgid "submission.layout.galleyPublicIdentificationExists"
+msgstr "Ашық қырлау идентификаторы бар ."
+
+msgid "submission.layout.assignLayoutEditor"
+msgstr "Қырлаушыны тағайындау"
+
+msgid "submission.layout.replaceLayoutEditor"
+msgstr "Қырлаушыны ауыстыру"
+
+msgid "submission.layout.layoutComments"
+msgstr "Қырлауға пікір"
+
+msgid "submission.layout.instructions"
+msgstr "Қырлауға Нұсқаулық"
+
+msgid "submission.layout.referenceLinking"
+msgstr "Дерек көздерге гиперсілтемелерді қою"
+
+msgid "submission.proofreadingComments"
+msgstr "Түзетуге пікірлер"
+
+msgid "submission.proofread.corrections"
+msgstr "Түзеушінің түзетулері"
+
+msgid "submission.proofread.instructions"
+msgstr "Түзетушілік нұсқаулар"
+
+msgid "submission.logType.article"
+msgstr "Мақала"
+
+msgid "submission.logType.author"
+msgstr "Автор"
+
+msgid "submission.logType.editor"
+msgstr "Редактор"
+
+msgid "submission.logType.review"
+msgstr "Рецензиялау"
+
+msgid "submission.logType.copyedit"
+msgstr "Әдеби өңдеу"
+
+msgid "submission.logType.layout"
+msgstr "Қырлау"
+
+msgid "submission.logType.proofread"
+msgstr "Түзету"
+
+msgid "submission.comments.editorAuthorCorrespondence"
+msgstr "Хат Алмасу \"Редактор\" / \"Автор\""
+
+msgid "submission.comments.copyeditComments"
+msgstr "Әдеби редакциялауға Пікірлер"
+
+msgid "submission.comments.viewableDescription"
+msgstr ""
+"Бұл пікірлер авторға көрсетілуі мүмкін.<br />\n"
+"(Сақталғаннан кейін қосымша Пікірлер қосылуы мүмкін.)"
+
+msgid "submission.comments.canShareWithAuthor"
+msgstr "Автор және редактор үшін"
+
+msgid "submission.comments.cannotShareWithAuthor"
+msgstr "Редактор үшін"
+
+msgid "submission.comments.blindCcReviewers"
+msgstr ""
+"Жіберілгеннен кейін жеке жіберу үшін редакциялау көшірмесін (BCC)"
+"рецензенттерге көрсету \n"
+"."
+
+msgid "submission.comments.forAuthorEditor"
+msgstr "Автор және редактор үшін"
+
+msgid "submission.comments.forEditor"
+msgstr "Редактор үшін"
+
+msgid "submission.comments.saveAndEmailAuthor"
+msgstr "Сақтау және авторға жіберу"
+
+msgid "submission.comments.saveAndEmailEditor"
+msgstr "Сақтау және редакторға жіберу"
+
+msgid "user.register.selectContext"
+msgstr "Тіркеу журналын таңдау:"
+
+msgid "user.register.noJournals"
+msgstr "Сайтта Сіз тіркеле алатын журналдар жоқ ."
+
+msgid "user.register.privacyStatement"
+msgstr "Құпиялылық туралы мәлімдеме"
+
+msgid "user.register.registrationDisabled"
+msgstr "Бұл журнал қазір жаңа пайдаланушыларды тіркемейді."
+
+msgid "user.register.form.passwordLengthTooShort"
+msgstr "Сіз енгізген құпия сөз тым қысқа."
+
+msgid "user.register.readerDescription"
+msgstr ""
+"Журналдың жаңа шығарылымын жариялау туралы электрондық пошта арқылы "
+"хабарлама алады."
+
+msgid "user.register.openAccessNotificationDescription"
+msgstr ""
+"Журналды шығаруға ашық рұқсат берілген кезде электрондық пошта арқылы "
+"хабарлама алады."
+
+msgid "user.register.authorDescription"
+msgstr "Мақалаларды журналға жібере алады."
+
+msgid "user.register.reviewerDescriptionNoInterests"
+msgstr "Осы журнал үшін материалдарды рецензиялауға қатысуға келісемін."
+
+msgid "user.register.reviewerDescription"
+msgstr "Осы сайт үшін материалдарды рецензиялауға қатысуға келісемін."
+
+msgid "user.register.reviewerInterests"
+msgstr ""
+"Рецензент ретінде сіздің қызығушылығыңызды көрсетіңіз (негізгі тақырып, "
+"зерттеу әдістері):"
+
+msgid "user.register.form.emailConsentAllContexts"
+msgstr ""
+"Иә, мен тіркелген барлық журналдардағы жаңа жарияланымдар мен "
+"хабарландырулар туралы мені хабардар етуін қалаймын."
+
+msgid "user.register.form.privacyConsentThisContext"
+msgstr ""
+"Иә, мен деректер жинау мен сақтауға келісім беремін. <a href=\"{$privacyUrl}"
+"\" target=\"_blank\"> бұл журналдың құпиялылық саясаты</a>."
+
+msgid "user.register.form.missingContextConsent"
+msgstr ""
+"Сіз тіркелетін кез келген журналдың құпиялылық саясатына келісуіңіз керек."
+
+msgid "user.register.form.missingSiteConsent"
+msgstr "Сіз осы сайттың құпиялылық саясатына келісуіңіз керек."
+
+msgid "user.subscriptions.mySubscriptions"
+msgstr "Менің жазылымдарым"
+
+msgid "user.subscriptions.subscriptionStatus"
+msgstr "Жазылу мәртебесі"
+
+msgid "user.subscriptions.statusInformation"
+msgstr ""
+"Белсенді және аяқталған жазылымдар аяқталған күнімен бірге төменде "
+"көрсетіледі. Сонымен қатар, әрбір жазылымға келесі мәртебесі туралы ақпарат "
+"қосылуы мүмкін."
+
+msgid "user.subscriptions.status"
+msgstr "Мәртебе"
+
+msgid "user.subscriptions.statusDescription"
+msgstr "Сипаттамасы"
+
+msgid "user.subscriptions.status.needsInformationDescription"
+msgstr "Жазылуды іске қосар алдында қосымша ақпарат қажет"
+
+msgid "user.subscriptions.status.needsApprovalDescription"
+msgstr "Жазылуды іске қосар алдында оны қарау керек"
+
+msgid "user.subscriptions.status.awaitingManualPaymentDescription"
+msgstr "Оплата қолмен көтерілді, бірақ әлі алынған жоқ"
+
+msgid "user.subscriptions.status.awaitingOnlinePaymentDescription"
+msgstr ""
+"Онлайн-төлем бастамашылық болды, бірақ содан кейін жойылды немесе аяқталмады"
+
+msgid "user.subscriptions.individualSubscriptions"
+msgstr "Жеке жазылу"
+
+msgid "user.subscriptions.institutionalSubscriptions"
+msgstr "Ұйымға жазылу"
+
+msgid "user.subscriptions.renew"
+msgstr "Ұзарту"
+
+msgid "user.subscriptions.purchase"
+msgstr "Сатып алу"
+
+msgid "user.subscriptions.purchaseNewSubscription"
+msgstr "Жаңа жазылымды сатып алу"
+
+msgid "user.subscriptions.purchaseIndividualSubscription"
+msgstr "Жеке жазылымды сатып алу"
+
+msgid "user.subscriptions.purchaseInstitutionalSubscription"
+msgstr "Ұйымға жазылым алу"
+
+msgid "user.subscriptions.expires"
+msgstr "Аяқталады: {$date}"
+
+msgid "user.subscriptions.expired"
+msgstr "Аяқталды: {$date}"
+
+msgid "user.subscriptions.viewSubscriptionTypes"
+msgstr "Қол жетімді жазылым түрлерін көрсету"
+
+msgid "user.subscriptions.form.typeId"
+msgstr "Жазылым түрі"
+
+msgid "user.subscriptions.form.membership"
+msgstr "Мүшелік"
+
+msgid "user.subscriptions.form.membershipRequired"
+msgstr "Таңдалған жазылу түрі мүшелік туралы ақпаратты талап етеді."
+
+msgid "user.subscriptions.form.typeIdValid"
+msgstr "Жазылымның дұрыс түрін таңдаңыз."
+
+msgid "user.subscriptions.form.subscriptionExists"
+msgstr "Осы тіркелгі бар пайдаланушы жеке жазылымы бар."
+
+msgid "user.subscriptions.form.membershipInstructions"
+msgstr "Мүшелік туралы ақпарат (таңдалған жазылым түрі үшін қажет болса)."
+
+msgid "user.subscriptions.form.institutionName"
+msgstr "Ұйым атауы"
+
+msgid "user.subscriptions.form.institutionNameRequired"
+msgstr "Ұйымның атауы міндетті түрде."
+
+msgid "user.subscriptions.form.institutionMailingAddress"
+msgstr "Почталық адрес"
+
+msgid "user.subscriptions.form.domain"
+msgstr "Домен"
+
+msgid "user.subscriptions.form.domainInstructions"
+msgstr ""
+"Егер домен енгізілген болса, онда IP мекенжай ауқымын енгізу қажет емес.<br "
+"/> Рұқсат етілген мәндер — домендік атаулар (мысалы, lib.sfu.ca)."
+
+msgid "user.subscriptions.form.domainIPRangeRequired"
+msgstr ""
+"Таңдалған жазылым түрі жазылу аутентификациясы үшін доменді және/немесе IP "
+"мекенжай ауқымын көрсетуді талап етеді."
+
+msgid "user.subscriptions.form.domainValid"
+msgstr "Дұрыс домен атауын енгізіңіз."
+
+msgid "user.subscriptions.form.ipRange"
+msgstr "IP-адрестердің диапазондары"
+
+msgid "user.subscriptions.form.ipRangeItem"
+msgstr "&#8226;"
+
+msgid "user.subscriptions.form.ipRangeInstructions"
+msgstr ""
+"Егер мұнда IP мекенжай ауқымы енгізілсе, доменді көрсету міндетті емес.<br />"
+" Рұқсат етілген мәндер-IP мекенжайы (мысалы, 142.58.103.1), IP мекенжай "
+"ауқымы (мысалы, 142.58.103.1-142.58.103.4), \" * \" (мысалы, 142.58.*.* ) "
+"және классыз маршруттауда бетперде бар IP-адрестердің ауқымы (мысалы, 142.58."
+"100.0 / 24)."
+
+msgid "user.subscriptions.form.ipRangeValid"
+msgstr "P-адрестердің дұрыс диапазонын енгізіңіз."
+
+msgid "user.subscriptions.form.deleteIpRange"
+msgstr "Жою"
+
+msgid "user.subscriptions.form.addIpRange"
+msgstr "Қосу"
+
+msgid "search.browseAuthorIndex"
+msgstr "Авторлардың тізімін қарау"
+
+msgid "search.searchFor"
+msgstr "Мақалаларды іздеу"
+
+msgid "search.withinJournal"
+msgstr "Журналда"
+
+msgid "search.allJournals"
+msgstr "Барлық журналдар"
+
+msgid "search.authorIndex"
+msgstr "Авторлардың тізімін қарау"
+
+msgid "search.authorDetails"
+msgstr "автор туралы ақпарат"
+
+msgid "search.syntaxInstructions"
+msgstr ""
+"Іздеу бойынша кеңестер: <ul>\n"
+"<li> Іздеу тіркелімсіз жүргізіледі (кіші және бас әріптер ажыратылмайды)</li>"
+"\n"
+"<li> Жалпы сөздер ескерілмейді </li>\n"
+"<li> Әдепкі бойынша, тек <em>барлығы</em> сұраудағы сөздер (яғни <em>AND</em>"
+"шарты) бар мақалалар көрсетіледі< / li>\n"
+"<li>терминдердің бірі бар мақалаларды іздеу үшін сөздерді<em>OR </em> "
+"көмегімен бөліңіз, мысалы,<em>білім OR оқыту</em> < / li>\n"
+"<li>мысалы, < em>Мұрағат ((OR конференциясы журналы) NOT диссертация)< / em>"
+"< / li>\n"
+"<li>фразаның дәл сәйкестілігін іздеу үшін тырнақшаларды қолданыңыз, мысалы, "
+"<em>\"ашық қол жетімді басылымдар\"</em>< / li>\n"
+"<li><strong>-</strong> (сызықша) немесе <em>NOT</em>, мысалы <em>сұлулық "
+"конкурсы< / em > немесе < em>NOT сұлулық байқауы< / em>< / li>\n"
+"<li><strong>*</strong> символдардың кез келген кезектілігін ауыстыратын "
+"арнайы таңба ретінде пайдаланыңыз, мысалы,<em>соц* мораль</em> "
+"\"әлеуметтік\" немесе \"социологиялық\"бар құжаттарды табады\n"
+"< / ul>"
+
+msgid "article.pageTitle"
+msgstr "Көрсету «{$title}»"
+
+msgid "article.pdf.title"
+msgstr "Portable Document Format (PDF)"
+
+msgid "article.download"
+msgstr "Мына PDF файлды жүктеу"
+
+msgid "article.pluginMissing"
+msgstr ""
+"<p> Сіз таңдаған PDF файлын мұнда жүктеу керек, егер сіздің веб-"
+"браузеріңізде PDF оқу модулі орнатылған болса,(мысалы, соңғы нұсқасы <a "
+"href=\"https://get.adobe.com/reader/\">Adobe Acrobat Reader</a>).</p>"
+
+msgid "article.nonpdf.title"
+msgstr "Мақаланы жүктеу"
+
+msgid "article.nonpdf.note"
+msgstr ""
+"Таңдалған файл автоматты түрде жүктелуі керек. Егер бұл болмаса, төмендегі "
+"сілтемені басыңыз. Бұл файл арнайы бағдарламаны немесе көру модулін талап "
+"етуі мүмкін екенін ескеріңіз.<br /> < br />файл автоматты түрде жүктелмесе, "
+"< a href=\"{$url} \" >мұнда басыңыз."
+
+msgid "site.journalsHosted"
+msgstr "Осы сайтта орналастырылған журналдар"
+
+msgid "site.journalView"
+msgstr "Журналды көру"
+
+msgid "site.journalRegister"
+msgstr "Тіркелу"
+
+msgid "site.journalCurrent"
+msgstr "Ағымдағы шығарылым"
+
+msgid "site.noJournals"
+msgstr "Қол жетімді журналдар жоқ."
+
+msgid "current.current"
+msgstr "Ағымдағы"
+
+msgid "current.noCurrentIssue"
+msgstr "Ағымдағы шығарылым жоқ"
+
+msgid "current.noCurrentIssueDesc"
+msgstr "Бұл журналдың жарияланған басылымдары жоқ."
+
+msgid "archive.archives"
+msgstr "Мұрағаттар"
+
+msgid "archive.archivesPageNumber"
+msgstr "Мұрағаттар - {$pageNumber} беттері"
+
+msgid "archive.browse"
+msgstr "Ескі шығарылымдарды қарау"
+
+msgid "archive.issueUnavailable"
+msgstr "Шығару қолжетімсіз"
+
+msgid "about.statistics"
+msgstr "Статистика"
+
+msgid "about.contact"
+msgstr "Байланыс"
+
+msgid "about.aboutContext"
+msgstr "Журнал туралы"
+
+msgid "about.history"
+msgstr "Журнал тарихы"
+
+msgid "about.editorialTeam"
+msgstr "Редакция алқасы"
+
+msgid "about.privacyStatement"
+msgstr "Құпиялылық туралы мәлімдеме"
+
+msgid "about.editorialTeam.biography"
+msgstr "Өмірбаяны"
+
+msgid "about.editorialPolicies"
+msgstr "Редакциялық саясат"
+
+msgid "about.focusAndScope"
+msgstr "Журналдың тұжырымдамасы"
+
+msgid "about.sectionPolicies"
+msgstr "Журнал бөлімдерінің ережелері"
+
+msgid "about.submissions"
+msgstr "Ұсылатын материалдар"
+
+msgid "about.onlineSubmissions.login"
+msgstr "Жүйеге кіру"
+
+msgid "about.onlineSubmissions.register"
+msgstr "Тіркелу"
+
+msgid "about.onlineSubmissions.registrationRequired"
+msgstr "Материалды жіберу үшін {$login} немесе {$register қажет}."
+
+msgid "about.onlineSubmissions.submissionActions"
+msgstr "{$newSubmission} немесе {$viewSubmissions}."
+
+msgid "about.onlineSubmissions.newSubmission"
+msgstr "Жаңа материалды жіберу"
+
+msgid "about.onlineSubmissions.viewSubmissions"
+msgstr "бұрын жіберілген материалдарды қарау"
+
+msgid "about.authorGuidelines"
+msgstr "Авторларға арналған нұсқаулық"
+
+msgid "about.submissionPreparationChecklist"
+msgstr "Материалды жіберуге дайындаудың бақылау тізімі"
+
+msgid "about.submissionPreparationChecklist.description"
+msgstr ""
+"Жіберу процесі кезеңдерінің бірі ретінде авторлар олардың материалының "
+"барлық келесі тармақтарға сәйкестігін тексеруі тиіс, егер олар осы "
+"талаптарға сәйкес келмесе, материалдар авторларға қайтарылуы мүмкін."
+
+msgid "about.copyrightNotice"
+msgstr "Авторлық құқықты беру шарттары"
+
+msgid "about.privacyStatement"
+msgstr "Құпиялылық туралы мәлімдеме"
+
+msgid "about.authorFees"
+msgstr "Авторлар төлемі"
+
+msgid "about.authorFeesMessage"
+msgstr "Бұл журнал авторлардан келесі төлемдерді өндіріп алады."
+
+msgid "about.peerReviewProcess"
+msgstr "Рецензиялау процесі"
+
+msgid "about.publicationFrequency"
+msgstr "Басылымның мерзімділігі"
+
+msgid "about.openAccessPolicy"
+msgstr "Ашық кіру саясаты"
+
+msgid "about.delayedOpenAccess"
+msgstr "Кейінге қалдырылған ашық кіру"
+
+msgid "about.delayedOpenAccessDescription1"
+msgstr "Бұл журналдың мазмұны ашық түрде жарияланатын болады."
+
+msgid "about.delayedOpenAccessDescription2"
+msgstr "шығарылым жарияланғаннан кейін."
+
+msgid "about.authorSelfArchive"
+msgstr "Автормен мұрағатты өз бетінше құру"
+
+msgid "about.archiving"
+msgstr "Мұрағаттау"
+
+msgid "about.subscriptions"
+msgstr "Жазылдымдар"
+
+msgid "about.subscriptions.individual"
+msgstr "Жеке жазылымдар"
+
+msgid "about.subscriptions.institutional"
+msgstr "Ұйымға жазылымы"
+
+msgid "about.subscriptionsContact"
+msgstr "Жазылу үшін Байланыстағы тұлға"
+
+msgid "about.subscriptionTypes.name"
+msgstr "Аты"
+
+msgid "about.subscriptionTypes.format"
+msgstr "Формат"
+
+msgid "about.subscriptionTypes.duration"
+msgstr "Ұзақтылығы"
+
+msgid "about.subscriptionTypes.cost"
+msgstr "Бағасы"
+
+msgid "about.availableSubscriptionTypes"
+msgstr "Жазылу түрлері"
+
+msgid "about.memberships"
+msgstr "Мүшелік"
+
+msgid "about.aboutThisPublishingSystem"
+msgstr "Бұл баспа жүйесі туралы"
+
+msgid "about.aboutThisPublishingSystem.altText"
+msgstr "OJS редакциялық және баспа процесі"
+
+msgid "about.aboutOJSJournal"
+msgstr ""
+"Бұл журнал Журнал журналдарды басқару және оларды жариялау үшін ашық "
+"бастапқы коды бар бағдарламалық қамтамасыз ету болып табылатын Open Journal "
+"Systems {$ojsVersion} пайдаланады. Бұл бағдарламалық жасақтама <a "
+"href=\"өңделеді, қолдайды және еркін таратылады http://pkp.sfu.ca /\" >"
+"Public Knowledge Project< / a> GNU General Public License лицензиясы бойынша."
+
+msgid "about.aboutOJSSite"
+msgstr ""
+"Бұл сайт журналдарды басқару және оларды жариялау үшін ашық бастапқы коды "
+"бар бағдарламалық қамтамасыз ету болып табылатын Open Journal Systems "
+"{$ojsVersion} пайдаланады. Бұл бағдарламалық жасақтама <a href=\"өңделеді, "
+"қолдайды және еркін таратылады http://pkp.sfu.ca /\" >Public Knowledge "
+"Project< / a> GNU General Public License лицензиясы бойынша."
+
+
+msgid "help.ojsHelp"
+msgstr "Open Journal Systems бойынша көмек"
+
+msgid "help.ojsHelpAbbrev"
+msgstr "OJS бойынша көмек"
+
+msgid "help.searchReturnResults"
+msgstr "Іздеу нәтижелеріне оралу"
+
+msgid "help.goToEditPage"
+msgstr "Өңдеу {$sectionTitle}"
+
+
+msgid "donations.thankYou"
+msgstr "Рахмет"
+
+msgid "donations.thankYouMessage"
+msgstr ""
+"Сіздің үлесіңіз үшін рахмет. Біз сіздің қолдауыңызды жоғары бағалаймыз."
+
+
+msgid "payment.loginRequired"
+msgstr "Төлемді жүзеге асыру үшін Сізге жүйеге кіру қажет."
+
+msgid "payment.loginRequired.forArticle"
+msgstr ""
+"Кіру үшін осы бапқа жазылу немесе сатып алынған кіру қажет. Жазылымыңызды "
+"тексеру үшін, алдыңғы сатып алуға қол жеткізу немесе мақаланы сатып алу үшін "
+"жүйеге кіріңіз."
+
+msgid "payment.loginRequired.forIssue"
+msgstr ""
+"Кіру үшін осы шығарылымға жазылу немесе сатып алынған кіру қажет. "
+"Жазылымыңызды тексеру үшін, алдыңғы сатып алуға қол жеткізу немесе "
+"шығарылымды сатып алу үшін жүйеге кіріңіз ."
+
+msgid "payment.loginRequired.forDonation"
+msgstr "Қайырымдылық жасау үшін Сізге жүйеге кіру қажет."
+
+msgid "payment.paid"
+msgstr "Төленген"
+
+msgid "payment.payNow"
+msgstr "Қазір төлеу"
+
+msgid "payment.waive"
+msgstr "Төлеуді болдырмау"
+
+msgid "payment.alreadyPaid"
+msgstr "Төленіп қойған"
+
+msgid "payment.alreadyPaidMessage"
+msgstr ""
+"Материалды жіберу процесін аяқтау үшін журналға төлеміңізді жіберсеңіз, осы "
+"тармақты таңдаңыз. Материал төлем келгенше қарастырылмайды. Төлем "
+"нұсқауларын көру үшін\" қазір төлеу \" жоғарыда басыңыз ."
+
+msgid "payment.paymentReceived"
+msgstr "Төлем қабылданды"
+
+msgid "payment.paymentSent"
+msgstr "Төлем жіберілді"
+
+msgid "payment.authorFees"
+msgstr "авторлар төлемдері"
+
+msgid "payment.type.submission"
+msgstr "Жіберу үшін төлем"
+
+msgid "payment.type.publication"
+msgstr "Жарияланғаны үшін төлем"
+
+msgid "payment.type.fastTrack"
+msgstr "Жеделдетілген қарау үшін төлем"
+
+msgid "payment.type.membership"
+msgstr "Жеке мүшелік үшін төлем"
+
+msgid "payment.type.purchaseArticle"
+msgstr "Мақаланы сатып алу Төлемі"
+
+msgid "payment.type.purchaseIssue"
+msgstr "Нөмірді сатып алу үшін төлем"
+
+msgid "payment.type.subscription"
+msgstr "Жазылым үшін төлем"
+
+msgid "payment.type.donation"
+msgstr "Қайырымдылық"
+
+msgid "payment.donation.makeDonation"
+msgstr "Қайырымдылық жасау"
+
+msgid "payment.submission.paySubmission"
+msgstr "Материалды жөнелтуді төлеу"
+
+msgid "payment.publication.payPublication"
+msgstr "Жарияланымды төлеу"
+
+msgid "payment.publication.publicationPaid"
+msgstr "Жарияланымды төленген"
+
+msgid "payment.membership.buyMembership"
+msgstr "Жеке мүшелікті сатып алу"
+
+msgid "payment.membership.renewMembership"
+msgstr "Жеке мүшелікті ұзарту"
+
+msgid "payment.membership.ends"
+msgstr "Аяқталып қалды"
+
+msgid "payment.subscription.purchase"
+msgstr "Жазылымды сатып алу"
+
+msgid "payment.subscription.renew"
+msgstr "Жазылымды ұзарту"
+
+msgid "payment.subscription.expires"
+msgstr "Аяқталады"
+
+
+msgid "installer.appInstallation"
+msgstr "OJS орнату"
+
+msgid "installer.ojsUpgrade"
+msgstr "OJS жаңарту"
+
+msgid "installer.installationInstructions"
+msgstr ""
+"<h4> OJS нұсқасы {$version}</h4>\n"
+"\n"
+"<p>Public Knowledge Project аясында әзірленген Open Journal Systems </strong>"
+"жүктеу үшін алғыс айтамыз. Жалғастыру алдында осы бағдарламалық жасақтамамен "
+"жүретін <a href=\"{$baseUrl}/docs/README\">README</a> файлын оқыңыз. Public "
+"Knowledge Project және олардың бағдарламалық жасақтама саласындағы жобалары "
+"туралы толығырақ ақпаратты <a href=\"http://pkp.sfu.ca / \"target=\"_blank\" "
+">PKP веб-сайты< / a>. Егер қателерді тап болсаңыз немесе Open Journal "
+"Systems туралы техникалық қолдау сұрағы болса, қараңыз <a href=\"http:"
+"//forum.pkp.sfu.ca\" target=\"_blank\">қолдау форумы</a> немесе онлайн <a "
+"href= \"https://github.com/pkp/pkp-lib#issues\"target=\"_blank\" >қателерді "
+"тіркеу жүйесі< / a> PKP. Қолдау форумына жүгіну байланыстың қолайлы тәсілі "
+"болса да, жоба командасына адреске хабар жібере аласыз \n"
+"<a href=\"mailto:pkp.contact@gmail.com\">pkp.contact@gmail.com</a>.</p>\n"
+"\n"
+"<h4>Жаңару</h4>\n"
+"\n"
+"<p> Егер сіз бар ojs инсталляциясын жаңартсаңыз,<a href=\"{$upgradeUrl}\">"
+"жалғастыру үшін < /a> .</p>\n"
+"\n"
+"<h4> Жүйеге ұсынылатын талаптар </h4>\n"
+"\n"
+"<ul>\n"
+"\t<li><a href=\"http://www.php.net/\" target=\"_blank\">PHP</a> >= "
+"{$phpRequiredVersion}; сіз қазір PHP пайдаланасыз {$phpVersion}"
+"{$wrongPhpText}</li>\n"
+"\t<li><a href=\"http://www.mysql.com/\" target=\"_blank\">MySQL</a> >= 4.1 "
+"или <a href=\"http://www.postgresql.org/\" target=\"_blank\">PostgreSQL</a> >"
+"= 9.1.5</li>\n"
+"\t<li><a href=\"http://httpd.apache.org/\" target=\"_blank\">Apache</a> >= 1."
+"3.2x или >= 2.0.4x или Microsoft IIS 6</li>\n"
+"\t<li> Операциялық жүйе: <a қоса, жоғарыда аталған бағдарламалық қамтамасыз "
+"етуді қолдайтын кез келген ОЖ  <a href=\"http://www.linux.org/\" "
+"target=\"_blank\">Linux</a>, <a href=\"http://www.bsd.org/\" "
+"target=\"_blank\">BSD</a>, <a href=\"http://www.oracle.com/sun/\" "
+"target=\"_blank\">Solaris</a>, <a href=\"http://www.apple.com/\" "
+"target=\"_blank\">Mac OS X</a>, <a href=\"http://www.microsoft.com/\">"
+"Windows</a></li>\n"
+"</ul>\n"
+"\n"
+"<p> PKP бағдарламалық жасақтама мен платформа нұсқаларының барлық ықтимал "
+"комбинацияларын тестілеу үшін ешқандай ресурстар жоқ болғандықтан, дұрыс "
+"жұмыс немесе қолдау кепілдігі жоқ .</p>\n"
+"\n"
+"<p>Бұл параметрлерді өзгерту жүйені <tt>config файлын өңдеу арқылы "
+"орнатқаннан кейін жасалуы мүмкін.inc.негізгі OJS каталогына жататын php</tt> "
+"немесе веб-сайтты басқару интерфейсінің көмегімен .</p>\n"
+"\n"
+"<h4> Қолдау көрсетілетін ДҚБЖ </h4>\n"
+"\n"
+"<p>OJS ағымдағы сәтте тек MySQL және PostgreSQL сыналған, бірақ <a "
+"href=\"http://adodb.sourceforge.net / \"target=\"_blank\" >ADOdb< / a>, "
+"сондай-ақ жұмыс істей алады (толық немесе ішінара). Балама ДҚБЖ үшін "
+"сәйкестік және/немесе кодты түзету есептері OJS жобасының командасына "
+"жіберуге болады .</p>"
+
+msgid "installer.preInstallationInstructions"
+msgstr ""
+"<h4> дайындық орнату қадамдары </h4>\n"
+"\n"
+"\n"
+"<p>1. Келесі файлдар мен каталогтар (және олардың мазмұны) жазу үшін "
+"қолжетімді болуы керек:</p>\n"
+"<ul>\n"
+"\t<li><tt>config.inc.php</tt> жазу үшін қол жетімді (міндетті емес): "
+"{$writable_config}</li>\n"
+"\t<li><tt>public/</tt> жазу үшін қол жетімді:{$writable_public}</li>\n"
+"\t<li><tt>cache/</tt> жазу үшін қол жетімді: {$writable_cache}</li>\n"
+"\t<li><tt>cache/t_cache/</tt> жазу үшін қол жетімді: "
+"{$writable_templates_cache}</li>\n"
+"\t<li><tt>cache/t_compile/</tt> жазу үшін қол жетімді: "
+"{$writable_templates_compile}</li>\n"
+"\t<li><tt>cache/_db</tt> жазу үшін қол жетімді: {$writable_db_cache}</li>\n"
+"</ul>\n"
+"\n"
+"<p>2. Жүктелген файлдарды сақтау каталогы жазу үшін қол жетімді болуы керек "
+"(төмендегі \"файл баптауларын\" қараңыз) .</p>"
+
+msgid "installer.upgradeInstructions"
+msgstr ""
+"<h4> OJS нұсқасы {$version}</h4>\n"
+"\n"
+"<p> Public Knowledge Project аясында әзірленген Open Journal Systems "
+"</strong>жүктеу үшін алғыс айтамыз. Жалғастыру алдында осы бағдарламалық "
+"қамтамасыз етумен жүретін <a href=\"{$baseUrl}/docs/README\">README</a> ЖӘНЕ "
+"<a href=\"{$baseUrl}/docs/UPGRADE\">UPGRADE</a> файлдарын оқыңыз. Public "
+"Knowledge Project және олардың бағдарламалық жасақтама саласындағы жобалары "
+"туралы толығырақ ақпаратты <a href=\"http://pkp.sfu.ca/\" target=\"_blank\">"
+"веб-сайт PKP</a>. Егер сіз қателерді тап болсаңыз немесе Open Journal "
+"Systems техникалық қолдау туралы сұрақтар бар болса, қараңыз \n"
+"<a href=\"http://forum.pkp.sfu.ca\" target=\"_blank\"> қолдау форумы </a> "
+"немесе онлайн кіріңіз <a href=\"https://github.com/pkp/pkp-lib#issues\" "
+"target=\"_blank\"> қателерді тіркеу жүйесі </a> PKP. Қолдау форумына жүгіну "
+"байланыстың қолайлы тәсілі болса да, жоба командасына адреске хабар жібере "
+"аласыз <a href=\"mailto:pkp.contact@gmail.com\">pkp.contact@gmail.com</a>."
+"</p>\n"
+"<p> <Strong>жалғастыру алдында</strong> деректер базасының, файлдары бар "
+"каталогтың және OJS жүйесі орнатылған каталогтың резервтік көшірмесін жасау "
+"ұсынылады.</p>\n"
+"<p> Егер PHP режимінде іске қосылған болса <a href=\"http://www.php."
+"net/features.safe-mode\" target=\"_blank\">PHP Safe Mode</a>,php "
+"конфигурация файлында max_execution_time мәнінің екеніне көз жеткізіңіз. ini "
+"өте үлкен. Егер бұл немесе кез келген басқа уақыт шектеулері (мысалы, Apache "
+"үшін time мәні) қол жеткізілсе және жаңарту процесі үзіледі, жаңарту "
+"процесіне қолмен араласу қажет болады \n"
+".</p>"
+
+msgid "installer.localeSettingsInstructions"
+msgstr ""
+"Unicode (UTF-8) толық қолдау үшін барлық таңбаларды кодтау параметрлері үшін "
+"UTF-8 таңдаңыз. Unicode толық қолдауы <a href=\"http://www.php."
+"net/mbstring\" target= \"_blank\" >mbstring< / a> (қазіргі PHP "
+"инсталляцияларының көпшілігінде әдепкі бойынша қосылған). Егер сервер осы "
+"талаптарға сәйкес келмесе, кеңейтілген кодтау мәселелері болуы мүмкін. <br />"
+"<br />\n"
+"Сіздің сервер қазір mbstring қолдайды : <strong>{$supportsMBString}</strong>"
+
+msgid "installer.allowFileUploads"
+msgstr ""
+"Сіздің серверіңіз қазір файлдарды жүктеуге рұқсат береді: <strong>"
+"{$allowFileUploads}</strong>"
+
+msgid "installer.maxFileUploadSize"
+msgstr ""
+"Серверіңіз қазір жүктелетін файлдың ең үлкен өлшемін рұқсат береді: \n"
+"<strong>{$maxFileUploadSize}</strong>"
+
+msgid "installer.localeInstructions"
+msgstr ""
+"Бұл жүйе үшін қолданылатын негізгі тіл. Егер сіз осы тізімде жоқ тілдерді "
+"қолдауға мүдделі болса, OJS құжаттамасына жүгініңіз."
+
+msgid "installer.additionalLocalesInstructions"
+msgstr ""
+"Осы жүйеде қолдау көрсетілетін кез келген қосымша тілдерді таңдаңыз. Бұл "
+"тілдер сайтта орналастырылған журналдарда пайдалануға болады.  Қосымша "
+"тілдер сайттың әкімшілік интерфейсінен кез келген уақытта орнатылуы мүмкін \n"
+"."
+
+msgid "installer.filesDirInstructions"
+msgstr ""
+"Жүктелген файлдар сақталатын бар каталогқа толық жолды енгізіңіз. Бұл "
+"каталог Интернет желісі арқылы тікелей қол жетімді болмауы керек. <strong>"
+"орнату алдында каталог бар және қол жетімді екеніне көз жеткізіңіз.< / "
+"strong> Windows каталогы жолдары тікелей слэштерді пайдалану керек, мысалы, "
+"\"C:/myjournal/files ескерту."
+
+msgid "installer.databaseSettingsInstructions"
+msgstr ""
+"OJS өз деректерін сақтау үшін SQL тілін қолдайтын деректер базасына қол "
+"жеткізуді талап етеді. Жоғарыда, жүйеге қойылатын талаптарда қолдау "
+"көрсетілетін деректер қоры көрсетілген. Төмендегі өрісте деректер базасына "
+"қосылу үшін пайдаланылатын баптауларды көрсетіңіз."
+
+msgid "installer.installApplication"
+msgstr "Open Journal Systems орнату"
+
+msgid "installer.upgradeApplication"
+msgstr "Open Journal Systems жаңарту"
+
+msgid "installer.reinstallAfterDatabaseError"
+msgstr ""
+"<strong> Ескерту :</strong> Егер орнату деректер базасын орнату барысында "
+"сәтсіз болса, OJS деректер базасын немесе кестені деректер базасынан жою "
+"қажет болуы мүмкін."
+
+msgid "installer.overwriteConfigFileInstructions"
+msgstr ""
+"<h4> Маңызды!</h4>\n"
+"<p>Орнатушы конфигурация файлы автоматты түрде жазыла алмады. Жүйені "
+"пайдаланбас бұрын <tt>config ашыңыз. inc.php< / tt> тиісті мәтін "
+"редакторында және оның мазмұнын төменде мәтін өрісінің мазмұнымен "
+"ауыстырыңыз .</p>"
+
+msgid "installer.installationComplete"
+msgstr ""
+"<p> OJS орнату сәтті аяқталды.</p>\n"
+"<p> Жүйені пайдалануды бастау үшін<a href=\"{$loginUrl}\">жүйеге < /a> "
+"пайдаланушының атымен және алдыңғы бетте енгізілген парольмен кіріңіз  \n"
+".</p>\n"
+"<p> Егер сіз PKP қоғамдастығының бөлігі болғыңыз келсе, Сіз:</p>\n"
+"<ol>\n"
+"\t<li>Оқуға <a href=\"http://pkp.sfu.ca/blog\" target=\"_new\">блог PKP</a>"
+"және жазылуға болады <a href=\"http://pkp.sfu.ca/blog/feed\" target=\"_new\">"
+"ленту RSS</a> жаңару және жаңалықтарды алу үшін.</li>\n"
+"\t<li> Кіру <a href=\"http://forum.pkp.sfu.ca\" target= \"_new\" >қолдау "
+"форумы< / a>, егер сізде сұрақтар немесе пікірлер болса .</li>\n"
+"</ol>"
+
+msgid "installer.upgradeComplete"
+msgstr ""
+"<p> {$Version} нұсқасына OJS жаңарту сәтті аяқталды.</p>\n"
+"<p> Config конфигурация файлында installed параметрін орнатуды ұмытпаңыз.inc."
+"php кері <em>On</em>мәніне.< / p>\n"
+"<p>егер сіз әлі тіркелмеген болса және жаңалықтар мен жаңартуларды алғыңыз "
+"келсе, <strong><a href=\"тіркеліңіз http://pkp.sfu.ca/ojs/register\" target= "
+"\"_new\" >http://pkp.sfu.ca/ojs/register< / a>.</strong> егер сізде сұрақтар "
+"немесе ұсыныстар болса, кіріңіз <a href=\" http://forum.pkp.sfu.ca "
+"\"target=\" _new \" >қолдау форумы< / a> .</p>"
+
+#. Жаңарту кезінде орнатушыны ескерту
+msgid "site.upgradeAvailable.admin"
+msgstr ""
+"Жаңа OJS нұсқасы қол жетімді! Енді сіз OJS {$currentVersion} пайдаланасыз. "
+"Ең соңғы нұсқасы-OJS {$latestVersion}. < A href= \"http://pkp.sfu."
+"ca/ojs_download\" target=\"_new\" >бұл бет</a> соңғы нұсқасын жүктеп, "
+"жаңарту нұсқауларын алу үшін"
+
+msgid "site.upgradeAvailable.manager"
+msgstr ""
+"Жаңа OJS нұсқасы қол жетімді! Енді сіз OJS {$currentVersion} пайдаланасыз. "
+"Ең соңғы нұсқасы-OJS {$latestVersion}. Осы жаңа нұсқаға хабарлау үшін сайт "
+"әкімшісі ({$siteAdminName}, <a href=\"mailto:{$siteAdminEmail}\">"
+"{$siteAdminEmail}</a>) хабарласыңыз. Толық ақпаратты табуға болады <a "
+"href=\"http://pkp.sfu.ca/ojs_download\" target=\"_new\" >мұнда</a>."
+
+
+msgid "log.author.documentRevised"
+msgstr ""
+"Автор {$authorName} мақала жөнделді {$submissionId}. Жаңа ID файл — {$fileId}"
+"."
+
+msgid "log.review.reviewerUnassigned"
+msgstr ""
+"Рецензент {$reviewerName} босатылып, рецензиялау материалды {$submissionId} "
+"{$round}-ші раундта рецензиялау ."
+
+msgid "log.review.reviewInitiated"
+msgstr ""
+"{$round}-ші раунд рецензия рецензент тексереді {$reviewerName} үшін "
+"материалды {$submissionId} басталды ."
+
+msgid "log.review.reviewReinitiated"
+msgstr ""
+"{$submissionId} материал үшін {$reviewerName} рецензентпен {$round} "
+"рецензиялау раунды қайта бастады ."
+
+msgid "log.review.reviewCleared"
+msgstr ""
+"{$round}-ші раунд рецензия рецензент тексереді {$reviewerName} үшін "
+"материалды {$submissionId} тазартылды."
+
+msgid "log.review.reviewerRated"
+msgstr ""
+"Рецензентке {$reviewerName} {$round}-ші материалды рецензиялау раундына "
+"рейтинг берілді {$submissionId} ."
+
+msgid "log.review.reviewDueDateSet"
+msgstr ""
+"{$Round}-ші материалды рецензиялау раунды {$submissionid} шеңберіндегі "
+"рецензияны орындау мерзімі {$reviewerName} рецензентпен {$dueDate тең болды}."
+
+msgid "log.review.reviewRecommendationSet"
+msgstr ""
+"Ұсыныс {$round}-ші раундта рецензиялау материалды {$submissionId} рецензент "
+"тексереді {$reviewerName} атты бойда ."
+
+msgid "log.review.reviewRecommendationSetByProxy"
+msgstr ""
+"Ұсыныс {$round}-ші раундта рецензиялау материалды {$submissionId} атты бойда "
+"редактор ({$editorName}) тапсырмасы бойынша рецензент ({$reviewerName}) \n"
+"."
+
+msgid "log.review.resubmit"
+msgstr "{$SubmissionId} материалы қайтадан рецензиялауға жіберілді."
+
+msgid "log.review.reviewDeclined"
+msgstr ""
+"Пікір беруші {$reviewerName} {$round}-ші материалға рецензия беруден бас "
+"тартты {$submissionId} ."
+
+msgid "log.review.reviewAccepted"
+msgstr ""
+"Рецензент {$reviewerName} рецензия беруге {$round}-ші раундта материалды "
+"рецензиялау үшін келісті {$submissionId} ."
+
+msgid "log.review.reviewDeclinedByProxy"
+msgstr ""
+"Редактор {$userName} рецензенттің тапсырмасы бойынша ({$reviewerName})"
+"{$round}-ші раундта материалды рецензиялаудан бас тартты {$submissionId} ."
+
+msgid "log.review.reviewAcceptedByProxy"
+msgstr ""
+"Редактор {$userName} рецензенттің ({$reviewerName})}){$round}-ші раундта "
+"материалды рецензиялаудан келісім берді {$submissionId}."
+
+msgid "log.review.reviewFileByProxy"
+msgstr ""
+"Редактор {$Reviewername} рецензенттің тапсырмасы бойынша{$reviewerName} "
+"{$round}-ші материалды рецензиялау раундына{$submissionId}  рецензия файлын "
+"жүктеді} ."
+
+msgid "log.review.reviewerFile"
+msgstr "Рецензент файлы сайтқа жүктелді."
+
+msgid "log.editor.decision"
+msgstr ""
+"Редакция шешімі ({$decision}) мақала бойынша {$submissionId}  редактормен "
+"енгізілді({$editorName})."
+
+msgid "log.editor.recommendation"
+msgstr ""
+"Мақала {$Submissionid} бабы бойынша редактордың ұсынымымен енгізілді "
+"({$decision}) {$editorName} \n"
+"."
+
+msgid "log.copyedit.initiate"
+msgstr ""
+"Материалды әдеби редакциялау {$submissionId} әдеби редактормен басталды "
+"({$copyeditorName})."
+
+msgid "log.copyedit.copyeditFileSet"
+msgstr "Әдеби өңдеу үшін әдепкі файл таңдалды ."
+
+msgid "log.copyedit.initialEditComplete"
+msgstr ""
+"Әдеби редактор {$copyeditorName} материалды бастапқы әдеби редакциялауды "
+"аяқтады {$submissionId} ."
+
+msgid "log.copyedit.finalEditComplete"
+msgstr ""
+"Әдеби редактор {$copyeditorName} материалды соңғы әдеби редакциялауды "
+"аяқтады {$submissionId} ."
+
+msgid "log.copyedit.copyeditorAssigned"
+msgstr ""
+"Әдеби редактор {$copyeditorName} материалды әдеби өңдеу үшін тағайындалған."
+
+msgid "log.copyedit.copyeditorFile"
+msgstr "Әдеби редактор түзеткен материалдың нұсқасы сайтқа жүктелді ."
+
+msgid "log.copyedit.authorFile"
+msgstr ""
+"Әдеби редакциялау кезеңінде автор түзеткен материал нұсқасы сайтқа жүктелді ."
+
+msgid "log.layout.layoutEditorAssigned"
+msgstr ""
+"Беттеуші {$editorName} тағайындалды материалды қырлаушымен {$submissionId}."
+
+msgid "log.layout.layoutEditorUnassigned"
+msgstr ""
+"Беттеуші {$editorName} материалды беттеуден босатылды {$submissionId} ."
+
+msgid "log.layout.layoutEditComplete"
+msgstr "Қырлаушы {$editorName} материалды қырлауды аяқтады {$submissionId}."
+
+msgid "log.editor.metadataModified"
+msgstr "Осы мақала үшін метадеректерді редактор ({$editorName})."
+
+msgid "log.editor.editorFile"
+msgstr "Редактор түзеткен материал нұсқасы сайтқа жүктелген."
+
+msgid "log.editor.archived"
+msgstr "{$SubmissionId} материалы архивке ауыстырылды."
+
+msgid "log.editor.restored"
+msgstr "{$SubmissionId} материалы мұрағаттан кезек қалпына келтірілді."
+
+msgid "log.editor.editorAssigned"
+msgstr ""
+"Редактор {$editorName} {$submissionId материал редакторы болып тағайындалды}."
+
+msgid "log.proofread.assign"
+msgstr ""
+"Пайдаланушы {$Assigname} пайдаланушыны {$proofreaderName} материал түзеткіші "
+"етіп тағайындады {$submissionId} ."
+
+msgid "log.proofread.complete"
+msgstr ""
+"Түзеткіш {$proofreaderName} шығарылымға орналастыру үшін {$submissionId} "
+"материал жіберді."
+
+msgid "log.imported"
+msgstr "Пайдаланушы {$UserName} мақаланы импорттады {$submissionId}."
+
+msgid "rt.admin.settings"
+msgstr "Настройки инструментов читателя"
+
+msgid "rt.admin.settings.description"
+msgstr ""
+"Оқырман құралдары индекстеу үшін көрсетілген журнал бөлімдерінде жарияланған "
+"мақалалардың жанында облыста пайда болады. Оқырман құралдары төменде "
+"көрсетілген жарияланған материал үшін қосымша құралдар жиынтығынан және "
+"ғылым саласы мен пәнге сәйкес ұйымдастырылған байланысты материалдарға қол "
+"жеткізуді жүзеге асыратын құралдар жиынтығынан тұрады ."
+
+msgid "rt.admin.settings.enableReadingTools"
+msgstr "Журналдың көрсетілген бөлімдері үшін оқырман құралдарын қосу."
+
+msgid "rt.admin.settings.relatedItems"
+msgstr "Ғылым обласы"
+
+msgid "rt.admin.settings.relatedItemsLink"
+msgstr ""
+"<A href=\"{$relatedItemsLink}\" class=\"action\">байланысты материалдар "
+"жиынтығы</a> әр аймаққа байланысты материалдарды қарау, қосу, өзгерту және "
+"жою үшін қараңыз."
+
+msgid "rt.admin.options"
+msgstr "Құралдар (журнал материалдары"
+
+msgid "rt.admin.relatedItems"
+msgstr "Құралдар (байланысты материалдар)"
+
+msgid "rt.admin.settings.addComment"
+msgstr ""
+"Пікірді қосу (оқырмандар журналды басқара алатын түсініктемелерді қалдыруға "
+"мүмкіндік береді) ."
+
+msgid "rt.admin.settings.addComment.authenticated"
+msgstr ""
+"Пайдаланушылар тіркеліңіз және сіздің пікір қалдыру үшін жүйеге кіру керек, "
+"жасырын пікірлер тыйым салынған ."
+
+msgid "rt.admin.settings.addComment.anonymous"
+msgstr ""
+"Пайдаланушылар тіркеліңіз және сіздің пікір қалдыру үшін жүйеге кіру керек, "
+"анонимді пікірлер рұқсат ."
+
+msgid "rt.admin.settings.addComment.unauthenticated"
+msgstr ""
+"Пайдаланушыларға өз пікіріңізді қалдыру үшін тіркелудің қажеті жоқ, анонимді "
+"пікірлер рұқсат етіледі."
+
+
+msgid "rt.admin.validateUrls.description"
+msgstr ""
+"Төменде іздеу сайттарының ықтимал дұрыс емес мекенжайлары (URL) көрсетіледі."
+"<br / >\n"
+"Бұл тест 100% - ға дәл емес, өйткені дұрыс емес деп белгіленген барлық "
+"мекенжайларды (URL) қолмен тексеру қажет.<br / >\n"
+"Іздеу нысанын толтыруды талап ететін іздеу сайттарының мекенжайларында "
+"тексеру сәтсіз болуы мүмкін ."
+
+
+msgid "rt.metadata.dublinCore.primaryAuthor"
+msgstr "Жасаушы"
+
+msgid "rt.metadata.pkp.primaryAuthor"
+msgstr "Автор, ұйым, ел"
+
+msgid "rt.metadata.pkp.peerReviewed"
+msgstr "Рецензияланған мақала"
+
+msgid "rt.beNotifiedWhen"
+msgstr "Қашан хабарлама алу..."
+
+msgid "rt.thisJournal"
+msgstr "Журналдан іздеу"
+
+msgid "rt.context.authorTermsDescription"
+msgstr ""
+"Бірнеше Авторлы материалдар үшін осы авторлардың орындаған жұмыстарын сол "
+"авторлардың құрамында табу үшін барлық авторларды белгіленген етіп "
+"қалдырыңыз немесе тізімде тек бір ғана атауды белгілеп, бір автордан іздеңіз."
+" Іздеу жүргізілетін ресурс туралы көбірек білу үшін \"ресурс туралы\"басыңыз."
+" Бұл ресурстар таңдалған, өйткені олар тақырыпқа сәйкес келеді және барлық "
+"мазмұнға ашық (еркін) қол жеткізуге мүмкіндік береді ."
+
+
+msgid "notification.type.articleSubmitted"
+msgstr "Жаңа мақала \"{$title} \" жіберілді ."
+
+msgid "notification.type.editing"
+msgstr "Редакциялау оқиғалары"
+
+msgid "notification.type.submissionSubmitted"
+msgstr "Жаңа мақала \"{$title} \" жіберілді."
+
+msgid "notification.type.editorDecisionComment"
+msgstr "\"{$Title \" үшін редакцияны шешу туралы түсініктеме қосылды} »."
+
+msgid "notification.type.galleyModified"
+msgstr "{$Title үшін қырлауы өзгертілді} »."
+
+msgid "notification.type.issuePublished"
+msgstr "Жаңа шығарылым жарияланды."
+
+msgid "notification.type.newAnnouncement"
+msgstr "Жаңа хабарландыру құрылды."
+
+msgid "notification.type.reviewerFormComment"
+msgstr "Пікір формасы \" {$title}жіберілді»."
+
+msgid "notification.type.reviewing"
+msgstr "Рецензиялау оқиғалары"
+
+msgid "notification.type.site"
+msgstr "Сайт оқиғалары"
+
+msgid "notification.type.submissionComment"
+msgstr "Редактор пікір қалдырды \" {$title}»."
+
+msgid "notification.type.submissions"
+msgstr "Жіберу процесінің оқиғалары"
+
+msgid "notification.type.userComment"
+msgstr "Оқырман пікірді қосты \" {$title}»"
+
+msgid "notification.type.public"
+msgstr "Жария хабарландырулар"
+
+msgid "notification.savedIssueMetadata"
+msgstr "Шығарылған метадеректер сақталған."
+
+msgid "notification.type.editorAssignmentTask"
+msgstr "Жаңа мақала жіберілді,Редактор тағайындау керек."
+
+msgid "notification.type.assignProductionUser"
+msgstr ""
+"«Қатысушылар» тізімінде \"тағайындау\" сілтемесі арқылы қырлауды жасау үшін "
+"пайдаланушыны тағайындау."
+
+msgid "notification.type.awaitingRepresentations"
+msgstr "Күтілетін қырлар."
+
+msgid "notification.type.publicationScheduled"
+msgstr "Бұл материал жариялау үшін жоспарланған."
+
+
+msgid "user.authorization.copyeditorAssignmentMissing"
+msgstr ""
+"Қол жеткізуге тыйым салынады! Сіз осы мақаланың әдеби редакторы болып "
+"тағайындалмағансыз."
+
+msgid "user.authorization.noContext"
+msgstr "Контексте журнал жоқ!"
+
+msgid "user.authorization.sectionAssignment"
+msgstr "Сіз бөліміңізге қатысы жоқ мақалаға қол жеткізуге тырысасыз ."
+
+msgid "user.authorization.invalidIssue"
+msgstr "Қате шығарылым сұралды!"
+
+msgid "user.authorization.invalidCopyditorSubmission"
+msgstr ""
+"Әдеби редактор жіберген нұсқа дұрыс емес немесе әдеби редакциялауға сұраныс "
+"жіберілген жоқ!"
+
+msgid "debug.notes.currencyListLoad"
+msgstr "XML-ден \"{$filename}\" валюталар тізімі жүктелді"
+
+
+msgid "grid.action.createContext"
+msgstr "Жаңа журнал жасау"
+
+
+msgid "editor.navigation.issues"
+msgstr "Шығарылымдар"
+
+msgid "notification.type.approveSubmission"
+msgstr ""
+"Бұл материал қазір мақұлдауды күтеді, содан кейін ол шығарылымда пайда "
+"болады."
+
+msgid "notification.type.approveSubmissionTitle"
+msgstr "Мақұлдауды күтеді."
+
+msgid "user.profile.form.showOtherContexts"
+msgstr "Басқа журналдарға тіркелу"
+
+msgid "user.profile.form.hideOtherContexts"
+msgstr "Басқа журналдарды жасыру"
+
+msgid "article.view.interstitial"
+msgstr "Жүктеу үшін мақала файлын таңдаңыз."
+
+msgid "grid.catalogEntry.availableRepresentation.approved"
+msgstr "Мақұлданған"
+
+msgid "grid.catalogEntry.availableRepresentation.notApproved"
+msgstr "Мақұлдауды күтеді"
+
+msgid "grid.catalogEntry.approvedRepresentation.title"
+msgstr "Қырлауды мақұлдау Одобрение гранок"
+
+msgid "grid.catalogEntry.approvedRepresentation.message"
+msgstr "<p> Жариялау үшін осы қырлауды мақұлдау.</p>"
+
+msgid "grid.catalogEntry.approvedRepresentation.removeMessage"
+msgstr "<p> Осы қырлаудың мақұлдауын болдырмау.</p>"
+
+msgid "search.cli.rebuildIndex.indexing"
+msgstr "Индекстеу «{$journalName}»"
+
+msgid "search.cli.rebuildIndex.indexingByJournalNotSupported"
+msgstr ""
+"Бұл іздеуді іске асыру журнал сайынғы қайта индекстеуге рұқсат бермейді."
+
+msgid "search.cli.rebuildIndex.unknownJournal"
+msgstr ""
+"Осы жолда \"{$journalPath}\" журналы табылмады По данному пути к журналу "
+"«{$journalPath}» не удается найти журнал."
+
+msgid "editor.issues.backIssues"
+msgstr "Өткен шығарылымдар"
+
+msgid "editor.issues.futureIssues"
+msgstr "Болашақ шығарылымдар"
+
+msgid "navigation.subscriptions"
+msgstr "Жазылулар"
+
+msgid "log.editor.submissionExpedited"
+msgstr ""
+"Редактор {$editorName} {$submissionId бабы бойынша өңдеу процесін бастады}."
